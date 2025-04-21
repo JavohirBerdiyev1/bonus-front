@@ -1,14 +1,13 @@
-const flattenColorPalette = require('tailwindcss/lib/util/flattenColorPalette').default
-const safeListFile = 'safelist.txt'
+// tailwind.config.js
+const flattenColorPalette =
+  require('tailwindcss/lib/util/flattenColorPalette').default;
+const safeListFile = 'safelist.txt';
+
 module.exports = {
-  mode: 'jit',
+  // mode: 'jit', // ❌ kerak emas (v3+)
   content: [
-    "./src/**/*.html",
-    "./src/**/*.js",
-    "./src/**/*.jsx",
-    "./src/**/*.ts",
-    "./src/**/*.tsx",
-    './safelist.txt'
+    './src/**/*.{html,js,jsx,ts,tsx}',
+    `./${safeListFile}`,
   ],
   darkMode: 'class',
   theme: {
@@ -43,7 +42,7 @@ module.exports = {
       ],
     },
     screens: {
-      xs: '576',
+      xs: '576px',
       sm: '640px',
       md: '768px',
       lg: '1024px',
@@ -51,7 +50,7 @@ module.exports = {
       '2xl': '1536px',
     },
     extend: {
-      typography: (theme) => ({
+      typography: ({ theme }) => ({
         DEFAULT: {
           css: {
             color: theme('colors.gray.500'),
@@ -63,29 +62,26 @@ module.exports = {
             color: theme('colors.gray.400'),
           },
         },
-      })
+      }),
     },
   },
   plugins: [
-    ({ addUtilities, e, theme, variants }) => {
+    // ➜ Chegaraning har bir tomoni uchun rang util’lari
+    function ({ addUtilities, theme }) {
       const colors = flattenColorPalette(theme('borderColor'));
-      delete colors['default'];
+      delete colors.DEFAULT; // default key v3’da ham mavjud bo‘ladi
 
-      const colorMap = Object.keys(colors)
-        .map(color => ({
-          [`.border-t-${color}`]: {borderTopColor: colors[color]},
-          [`.border-r-${color}`]: {borderRightColor: colors[color]},
-          [`.border-b-${color}`]: {borderBottomColor: colors[color]},
-          [`.border-l-${color}`]: {borderLeftColor: colors[color]},
-        }));
-      const utilities = Object.assign({}, ...colorMap);
+      const utilities = Object.entries(colors).flatMap(([name, value]) => ({
+        [`.border-t-${name}`]: { borderTopColor: value },
+        [`.border-r-${name}`]: { borderRightColor: value },
+        [`.border-b-${name}`]: { borderBottomColor: value },
+        [`.border-l-${name}`]: { borderLeftColor: value },
+      }));
 
-      addUtilities(utilities, variants('borderColor'));
+      addUtilities(utilities, { variants: ['responsive', 'hover'] });
     },
-    // If your application does not require multiple theme selection,
-    // you can replace {color} to your theme color value
-    // this can drastically reduces the size of the output css file
-    // e.g 'text-{colors}' --> 'text-emerald'
+
+    // Safelist generator
     require('tailwind-safelist-generator')({
       path: safeListFile,
       patterns: [
@@ -110,6 +106,7 @@ module.exports = {
         'w-{width}',
       ],
     }),
-    require('@tailwindcss/typography')
+
+    require('@tailwindcss/typography'),
   ],
-}
+};
