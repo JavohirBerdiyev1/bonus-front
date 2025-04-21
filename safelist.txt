@@ -13,7 +13,6 @@ text-slate-600
 text-slate-700
 text-slate-800
 text-slate-900
-text-slate-950
 text-gray-50
 text-gray-100
 text-gray-200
@@ -24,7 +23,6 @@ text-gray-600
 text-gray-700
 text-gray-800
 text-gray-900
-text-gray-950
 text-zinc-50
 text-zinc-100
 text-zinc-200
@@ -35,7 +33,6 @@ text-zinc-600
 text-zinc-700
 text-zinc-800
 text-zinc-900
-text-zinc-950
 text-neutral-50
 text-neutral-100
 text-neutral-200
@@ -46,7 +43,6 @@ text-neutral-600
 text-neutral-700
 text-neutral-800
 text-neutral-900
-text-neutral-950
 text-stone-50
 text-stone-100
 text-stone-200
@@ -57,7 +53,6 @@ text-stone-600
 text-stone-700
 text-stone-800
 text-stone-900
-text-stone-950
 text-red-50
 text-red-100
 text-red-200
@@ -68,7 +63,6 @@ text-red-600
 text-red-700
 text-red-800
 text-red-900
-text-red-950
 text-orange-50
 text-orange-100
 text-orange-200
@@ -79,7 +73,6 @@ text-orange-600
 text-orange-700
 text-orange-800
 text-orange-900
-text-orange-950
 text-amber-50
 text-amber-100
 text-amber-200
@@ -90,7 +83,6 @@ text-amber-600
 text-amber-700
 text-amber-800
 text-amber-900
-text-amber-950
 text-yellow-50
 text-yellow-100
 text-yellow-200
@@ -101,7 +93,6 @@ text-yellow-600
 text-yellow-700
 text-yellow-800
 text-yellow-900
-text-yellow-950
 text-lime-50
 text-lime-100
 text-lime-200
@@ -112,7 +103,6 @@ text-lime-600
 text-lime-700
 text-lime-800
 text-lime-900
-text-lime-950
 text-green-50
 text-green-100
 text-green-200
@@ -123,7 +113,6 @@ text-green-600
 text-green-700
 text-green-800
 text-green-900
-text-green-950
 text-emerald-50
 text-emerald-100
 text-emerald-200
@@ -134,7 +123,6 @@ text-emerald-600
 text-emerald-700
 text-emerald-800
 text-emerald-900
-text-emerald-950
 text-teal-50
 text-teal-100
 text-teal-200
@@ -145,7 +133,6 @@ text-teal-600
 text-teal-700
 text-teal-800
 text-teal-900
-text-teal-950
 text-cyan-50
 text-cyan-100
 text-cyan-200
@@ -156,7 +143,6 @@ text-cyan-600
 text-cyan-700
 text-cyan-800
 text-cyan-900
-text-cyan-950
 text-sky-50
 text-sky-100
 text-sky-200
@@ -167,7 +153,6 @@ text-sky-600
 text-sky-700
 text-sky-800
 text-sky-900
-text-sky-950
 text-blue-50
 text-blue-100
 text-blue-200
@@ -178,7 +163,6 @@ text-blue-600
 text-blue-700
 text-blue-800
 text-blue-900
-text-blue-950
 text-indigo-50
 text-indigo-100
 text-indigo-200
@@ -189,7 +173,6 @@ text-indigo-600
 text-indigo-700
 text-indigo-800
 text-indigo-900
-text-indigo-950
 text-violet-50
 text-violet-100
 text-violet-200
@@ -200,7 +183,6 @@ text-violet-600
 text-violet-700
 text-violet-800
 text-violet-900
-text-violet-950
 text-purple-50
 text-purple-100
 text-purple-200
@@ -211,7 +193,6 @@ text-purple-600
 text-purple-700
 text-purple-800
 text-purple-900
-text-purple-950
 text-fuchsia-50
 text-fuchsia-100
 text-fuchsia-200
@@ -222,7 +203,6 @@ text-fuchsia-600
 text-fuchsia-700
 text-fuchsia-800
 text-fuchsia-900
-text-fuchsia-950
 text-pink-50
 text-pink-100
 text-pink-200
@@ -233,7 +213,6 @@ text-pink-600
 text-pink-700
 text-pink-800
 text-pink-900
-text-pink-950
 text-rose-50
 text-rose-100
 text-rose-200
@@ -244,7 +223,6 @@ text-rose-600
 text-rose-700
 text-rose-800
 text-rose-900
-text-rose-950
 bg-inherit
 bg-current
 bg-transparent
@@ -260,7 +238,6 @@ bg-slate-600
 bg-slate-700
 bg-slate-800
 bg-slate-900
-bg-slate-950
 bg-gray-50
 bg-gray-100
 bg-gray-200
@@ -271,7 +248,6 @@ bg-gray-600
 bg-gray-700
 bg-gray-800
 bg-gray-900
-bg-gray-950
 bg-zinc-50
 bg-zinc-100
 bg-zinc-200
@@ -282,7 +258,6 @@ bg-zinc-600
 bg-zinc-700
 bg-zinc-800
 bg-zinc-900
-bg-zinc-950
 bg-neutral-50
 bg-neutral-100
 bg-neutral-200
@@ -293,7 +268,6 @@ bg-neutral-600
 bg-neutral-700
 bg-neutral-800
 bg-neutral-900
-bg-neutral-950
 bg-stone-50
 bg-stone-100
 bg-stone-200
@@ -304,7 +278,6 @@ bg-stone-600
 bg-stone-700
 bg-stone-800
 bg-stone-900
-bg-stone-950
 bg-red-50
 bg-red-100
 bg-red-200
@@ -315,7 +288,6 @@ bg-red-600
 bg-red-700
 bg-red-800
 bg-red-900
-bg-red-950
 bg-orange-50
 bg-orange-100
 bg-orange-200
@@ -326,7 +298,6 @@ bg-orange-600
 bg-orange-700
 bg-orange-800
 bg-orange-900
-bg-orange-950
 bg-amber-50
 bg-amber-100
 bg-amber-200
@@ -337,7 +308,6 @@ bg-amber-600
 bg-amber-700
 bg-amber-800
 bg-amber-900
-bg-amber-950
 bg-yellow-50
 bg-yellow-100
 bg-yellow-200
@@ -348,7 +318,6 @@ bg-yellow-600
 bg-yellow-700
 bg-yellow-800
 bg-yellow-900
-bg-yellow-950
 bg-lime-50
 bg-lime-100
 bg-lime-200
@@ -359,7 +328,6 @@ bg-lime-600
 bg-lime-700
 bg-lime-800
 bg-lime-900
-bg-lime-950
 bg-green-50
 bg-green-100
 bg-green-200
@@ -370,7 +338,6 @@ bg-green-600
 bg-green-700
 bg-green-800
 bg-green-900
-bg-green-950
 bg-emerald-50
 bg-emerald-100
 bg-emerald-200
@@ -381,7 +348,6 @@ bg-emerald-600
 bg-emerald-700
 bg-emerald-800
 bg-emerald-900
-bg-emerald-950
 bg-teal-50
 bg-teal-100
 bg-teal-200
@@ -392,7 +358,6 @@ bg-teal-600
 bg-teal-700
 bg-teal-800
 bg-teal-900
-bg-teal-950
 bg-cyan-50
 bg-cyan-100
 bg-cyan-200
@@ -403,7 +368,6 @@ bg-cyan-600
 bg-cyan-700
 bg-cyan-800
 bg-cyan-900
-bg-cyan-950
 bg-sky-50
 bg-sky-100
 bg-sky-200
@@ -414,7 +378,6 @@ bg-sky-600
 bg-sky-700
 bg-sky-800
 bg-sky-900
-bg-sky-950
 bg-blue-50
 bg-blue-100
 bg-blue-200
@@ -425,7 +388,6 @@ bg-blue-600
 bg-blue-700
 bg-blue-800
 bg-blue-900
-bg-blue-950
 bg-indigo-50
 bg-indigo-100
 bg-indigo-200
@@ -436,7 +398,6 @@ bg-indigo-600
 bg-indigo-700
 bg-indigo-800
 bg-indigo-900
-bg-indigo-950
 bg-violet-50
 bg-violet-100
 bg-violet-200
@@ -447,7 +408,6 @@ bg-violet-600
 bg-violet-700
 bg-violet-800
 bg-violet-900
-bg-violet-950
 bg-purple-50
 bg-purple-100
 bg-purple-200
@@ -458,7 +418,6 @@ bg-purple-600
 bg-purple-700
 bg-purple-800
 bg-purple-900
-bg-purple-950
 bg-fuchsia-50
 bg-fuchsia-100
 bg-fuchsia-200
@@ -469,7 +428,6 @@ bg-fuchsia-600
 bg-fuchsia-700
 bg-fuchsia-800
 bg-fuchsia-900
-bg-fuchsia-950
 bg-pink-50
 bg-pink-100
 bg-pink-200
@@ -480,7 +438,6 @@ bg-pink-600
 bg-pink-700
 bg-pink-800
 bg-pink-900
-bg-pink-950
 bg-rose-50
 bg-rose-100
 bg-rose-200
@@ -491,7 +448,6 @@ bg-rose-600
 bg-rose-700
 bg-rose-800
 bg-rose-900
-bg-rose-950
 dark:bg-inherit
 dark:bg-current
 dark:bg-transparent
@@ -507,7 +463,6 @@ dark:bg-slate-600
 dark:bg-slate-700
 dark:bg-slate-800
 dark:bg-slate-900
-dark:bg-slate-950
 dark:bg-gray-50
 dark:bg-gray-100
 dark:bg-gray-200
@@ -518,7 +473,6 @@ dark:bg-gray-600
 dark:bg-gray-700
 dark:bg-gray-800
 dark:bg-gray-900
-dark:bg-gray-950
 dark:bg-zinc-50
 dark:bg-zinc-100
 dark:bg-zinc-200
@@ -529,7 +483,6 @@ dark:bg-zinc-600
 dark:bg-zinc-700
 dark:bg-zinc-800
 dark:bg-zinc-900
-dark:bg-zinc-950
 dark:bg-neutral-50
 dark:bg-neutral-100
 dark:bg-neutral-200
@@ -540,7 +493,6 @@ dark:bg-neutral-600
 dark:bg-neutral-700
 dark:bg-neutral-800
 dark:bg-neutral-900
-dark:bg-neutral-950
 dark:bg-stone-50
 dark:bg-stone-100
 dark:bg-stone-200
@@ -551,7 +503,6 @@ dark:bg-stone-600
 dark:bg-stone-700
 dark:bg-stone-800
 dark:bg-stone-900
-dark:bg-stone-950
 dark:bg-red-50
 dark:bg-red-100
 dark:bg-red-200
@@ -562,7 +513,6 @@ dark:bg-red-600
 dark:bg-red-700
 dark:bg-red-800
 dark:bg-red-900
-dark:bg-red-950
 dark:bg-orange-50
 dark:bg-orange-100
 dark:bg-orange-200
@@ -573,7 +523,6 @@ dark:bg-orange-600
 dark:bg-orange-700
 dark:bg-orange-800
 dark:bg-orange-900
-dark:bg-orange-950
 dark:bg-amber-50
 dark:bg-amber-100
 dark:bg-amber-200
@@ -584,7 +533,6 @@ dark:bg-amber-600
 dark:bg-amber-700
 dark:bg-amber-800
 dark:bg-amber-900
-dark:bg-amber-950
 dark:bg-yellow-50
 dark:bg-yellow-100
 dark:bg-yellow-200
@@ -595,7 +543,6 @@ dark:bg-yellow-600
 dark:bg-yellow-700
 dark:bg-yellow-800
 dark:bg-yellow-900
-dark:bg-yellow-950
 dark:bg-lime-50
 dark:bg-lime-100
 dark:bg-lime-200
@@ -606,7 +553,6 @@ dark:bg-lime-600
 dark:bg-lime-700
 dark:bg-lime-800
 dark:bg-lime-900
-dark:bg-lime-950
 dark:bg-green-50
 dark:bg-green-100
 dark:bg-green-200
@@ -617,7 +563,6 @@ dark:bg-green-600
 dark:bg-green-700
 dark:bg-green-800
 dark:bg-green-900
-dark:bg-green-950
 dark:bg-emerald-50
 dark:bg-emerald-100
 dark:bg-emerald-200
@@ -628,7 +573,6 @@ dark:bg-emerald-600
 dark:bg-emerald-700
 dark:bg-emerald-800
 dark:bg-emerald-900
-dark:bg-emerald-950
 dark:bg-teal-50
 dark:bg-teal-100
 dark:bg-teal-200
@@ -639,7 +583,6 @@ dark:bg-teal-600
 dark:bg-teal-700
 dark:bg-teal-800
 dark:bg-teal-900
-dark:bg-teal-950
 dark:bg-cyan-50
 dark:bg-cyan-100
 dark:bg-cyan-200
@@ -650,7 +593,6 @@ dark:bg-cyan-600
 dark:bg-cyan-700
 dark:bg-cyan-800
 dark:bg-cyan-900
-dark:bg-cyan-950
 dark:bg-sky-50
 dark:bg-sky-100
 dark:bg-sky-200
@@ -661,7 +603,6 @@ dark:bg-sky-600
 dark:bg-sky-700
 dark:bg-sky-800
 dark:bg-sky-900
-dark:bg-sky-950
 dark:bg-blue-50
 dark:bg-blue-100
 dark:bg-blue-200
@@ -672,7 +613,6 @@ dark:bg-blue-600
 dark:bg-blue-700
 dark:bg-blue-800
 dark:bg-blue-900
-dark:bg-blue-950
 dark:bg-indigo-50
 dark:bg-indigo-100
 dark:bg-indigo-200
@@ -683,7 +623,6 @@ dark:bg-indigo-600
 dark:bg-indigo-700
 dark:bg-indigo-800
 dark:bg-indigo-900
-dark:bg-indigo-950
 dark:bg-violet-50
 dark:bg-violet-100
 dark:bg-violet-200
@@ -694,7 +633,6 @@ dark:bg-violet-600
 dark:bg-violet-700
 dark:bg-violet-800
 dark:bg-violet-900
-dark:bg-violet-950
 dark:bg-purple-50
 dark:bg-purple-100
 dark:bg-purple-200
@@ -705,7 +643,6 @@ dark:bg-purple-600
 dark:bg-purple-700
 dark:bg-purple-800
 dark:bg-purple-900
-dark:bg-purple-950
 dark:bg-fuchsia-50
 dark:bg-fuchsia-100
 dark:bg-fuchsia-200
@@ -716,7 +653,6 @@ dark:bg-fuchsia-600
 dark:bg-fuchsia-700
 dark:bg-fuchsia-800
 dark:bg-fuchsia-900
-dark:bg-fuchsia-950
 dark:bg-pink-50
 dark:bg-pink-100
 dark:bg-pink-200
@@ -727,7 +663,6 @@ dark:bg-pink-600
 dark:bg-pink-700
 dark:bg-pink-800
 dark:bg-pink-900
-dark:bg-pink-950
 dark:bg-rose-50
 dark:bg-rose-100
 dark:bg-rose-200
@@ -738,7 +673,6 @@ dark:bg-rose-600
 dark:bg-rose-700
 dark:bg-rose-800
 dark:bg-rose-900
-dark:bg-rose-950
 dark:hover:bg-inherit
 dark:hover:bg-current
 dark:hover:bg-transparent
@@ -754,7 +688,6 @@ dark:hover:bg-slate-600
 dark:hover:bg-slate-700
 dark:hover:bg-slate-800
 dark:hover:bg-slate-900
-dark:hover:bg-slate-950
 dark:hover:bg-gray-50
 dark:hover:bg-gray-100
 dark:hover:bg-gray-200
@@ -765,7 +698,6 @@ dark:hover:bg-gray-600
 dark:hover:bg-gray-700
 dark:hover:bg-gray-800
 dark:hover:bg-gray-900
-dark:hover:bg-gray-950
 dark:hover:bg-zinc-50
 dark:hover:bg-zinc-100
 dark:hover:bg-zinc-200
@@ -776,7 +708,6 @@ dark:hover:bg-zinc-600
 dark:hover:bg-zinc-700
 dark:hover:bg-zinc-800
 dark:hover:bg-zinc-900
-dark:hover:bg-zinc-950
 dark:hover:bg-neutral-50
 dark:hover:bg-neutral-100
 dark:hover:bg-neutral-200
@@ -787,7 +718,6 @@ dark:hover:bg-neutral-600
 dark:hover:bg-neutral-700
 dark:hover:bg-neutral-800
 dark:hover:bg-neutral-900
-dark:hover:bg-neutral-950
 dark:hover:bg-stone-50
 dark:hover:bg-stone-100
 dark:hover:bg-stone-200
@@ -798,7 +728,6 @@ dark:hover:bg-stone-600
 dark:hover:bg-stone-700
 dark:hover:bg-stone-800
 dark:hover:bg-stone-900
-dark:hover:bg-stone-950
 dark:hover:bg-red-50
 dark:hover:bg-red-100
 dark:hover:bg-red-200
@@ -809,7 +738,6 @@ dark:hover:bg-red-600
 dark:hover:bg-red-700
 dark:hover:bg-red-800
 dark:hover:bg-red-900
-dark:hover:bg-red-950
 dark:hover:bg-orange-50
 dark:hover:bg-orange-100
 dark:hover:bg-orange-200
@@ -820,7 +748,6 @@ dark:hover:bg-orange-600
 dark:hover:bg-orange-700
 dark:hover:bg-orange-800
 dark:hover:bg-orange-900
-dark:hover:bg-orange-950
 dark:hover:bg-amber-50
 dark:hover:bg-amber-100
 dark:hover:bg-amber-200
@@ -831,7 +758,6 @@ dark:hover:bg-amber-600
 dark:hover:bg-amber-700
 dark:hover:bg-amber-800
 dark:hover:bg-amber-900
-dark:hover:bg-amber-950
 dark:hover:bg-yellow-50
 dark:hover:bg-yellow-100
 dark:hover:bg-yellow-200
@@ -842,7 +768,6 @@ dark:hover:bg-yellow-600
 dark:hover:bg-yellow-700
 dark:hover:bg-yellow-800
 dark:hover:bg-yellow-900
-dark:hover:bg-yellow-950
 dark:hover:bg-lime-50
 dark:hover:bg-lime-100
 dark:hover:bg-lime-200
@@ -853,7 +778,6 @@ dark:hover:bg-lime-600
 dark:hover:bg-lime-700
 dark:hover:bg-lime-800
 dark:hover:bg-lime-900
-dark:hover:bg-lime-950
 dark:hover:bg-green-50
 dark:hover:bg-green-100
 dark:hover:bg-green-200
@@ -864,7 +788,6 @@ dark:hover:bg-green-600
 dark:hover:bg-green-700
 dark:hover:bg-green-800
 dark:hover:bg-green-900
-dark:hover:bg-green-950
 dark:hover:bg-emerald-50
 dark:hover:bg-emerald-100
 dark:hover:bg-emerald-200
@@ -875,7 +798,6 @@ dark:hover:bg-emerald-600
 dark:hover:bg-emerald-700
 dark:hover:bg-emerald-800
 dark:hover:bg-emerald-900
-dark:hover:bg-emerald-950
 dark:hover:bg-teal-50
 dark:hover:bg-teal-100
 dark:hover:bg-teal-200
@@ -886,7 +808,6 @@ dark:hover:bg-teal-600
 dark:hover:bg-teal-700
 dark:hover:bg-teal-800
 dark:hover:bg-teal-900
-dark:hover:bg-teal-950
 dark:hover:bg-cyan-50
 dark:hover:bg-cyan-100
 dark:hover:bg-cyan-200
@@ -897,7 +818,6 @@ dark:hover:bg-cyan-600
 dark:hover:bg-cyan-700
 dark:hover:bg-cyan-800
 dark:hover:bg-cyan-900
-dark:hover:bg-cyan-950
 dark:hover:bg-sky-50
 dark:hover:bg-sky-100
 dark:hover:bg-sky-200
@@ -908,7 +828,6 @@ dark:hover:bg-sky-600
 dark:hover:bg-sky-700
 dark:hover:bg-sky-800
 dark:hover:bg-sky-900
-dark:hover:bg-sky-950
 dark:hover:bg-blue-50
 dark:hover:bg-blue-100
 dark:hover:bg-blue-200
@@ -919,7 +838,6 @@ dark:hover:bg-blue-600
 dark:hover:bg-blue-700
 dark:hover:bg-blue-800
 dark:hover:bg-blue-900
-dark:hover:bg-blue-950
 dark:hover:bg-indigo-50
 dark:hover:bg-indigo-100
 dark:hover:bg-indigo-200
@@ -930,7 +848,6 @@ dark:hover:bg-indigo-600
 dark:hover:bg-indigo-700
 dark:hover:bg-indigo-800
 dark:hover:bg-indigo-900
-dark:hover:bg-indigo-950
 dark:hover:bg-violet-50
 dark:hover:bg-violet-100
 dark:hover:bg-violet-200
@@ -941,7 +858,6 @@ dark:hover:bg-violet-600
 dark:hover:bg-violet-700
 dark:hover:bg-violet-800
 dark:hover:bg-violet-900
-dark:hover:bg-violet-950
 dark:hover:bg-purple-50
 dark:hover:bg-purple-100
 dark:hover:bg-purple-200
@@ -952,7 +868,6 @@ dark:hover:bg-purple-600
 dark:hover:bg-purple-700
 dark:hover:bg-purple-800
 dark:hover:bg-purple-900
-dark:hover:bg-purple-950
 dark:hover:bg-fuchsia-50
 dark:hover:bg-fuchsia-100
 dark:hover:bg-fuchsia-200
@@ -963,7 +878,6 @@ dark:hover:bg-fuchsia-600
 dark:hover:bg-fuchsia-700
 dark:hover:bg-fuchsia-800
 dark:hover:bg-fuchsia-900
-dark:hover:bg-fuchsia-950
 dark:hover:bg-pink-50
 dark:hover:bg-pink-100
 dark:hover:bg-pink-200
@@ -974,7 +888,6 @@ dark:hover:bg-pink-600
 dark:hover:bg-pink-700
 dark:hover:bg-pink-800
 dark:hover:bg-pink-900
-dark:hover:bg-pink-950
 dark:hover:bg-rose-50
 dark:hover:bg-rose-100
 dark:hover:bg-rose-200
@@ -985,7 +898,6 @@ dark:hover:bg-rose-600
 dark:hover:bg-rose-700
 dark:hover:bg-rose-800
 dark:hover:bg-rose-900
-dark:hover:bg-rose-950
 dark:active:bg-inherit
 dark:active:bg-current
 dark:active:bg-transparent
@@ -1001,7 +913,6 @@ dark:active:bg-slate-600
 dark:active:bg-slate-700
 dark:active:bg-slate-800
 dark:active:bg-slate-900
-dark:active:bg-slate-950
 dark:active:bg-gray-50
 dark:active:bg-gray-100
 dark:active:bg-gray-200
@@ -1012,7 +923,6 @@ dark:active:bg-gray-600
 dark:active:bg-gray-700
 dark:active:bg-gray-800
 dark:active:bg-gray-900
-dark:active:bg-gray-950
 dark:active:bg-zinc-50
 dark:active:bg-zinc-100
 dark:active:bg-zinc-200
@@ -1023,7 +933,6 @@ dark:active:bg-zinc-600
 dark:active:bg-zinc-700
 dark:active:bg-zinc-800
 dark:active:bg-zinc-900
-dark:active:bg-zinc-950
 dark:active:bg-neutral-50
 dark:active:bg-neutral-100
 dark:active:bg-neutral-200
@@ -1034,7 +943,6 @@ dark:active:bg-neutral-600
 dark:active:bg-neutral-700
 dark:active:bg-neutral-800
 dark:active:bg-neutral-900
-dark:active:bg-neutral-950
 dark:active:bg-stone-50
 dark:active:bg-stone-100
 dark:active:bg-stone-200
@@ -1045,7 +953,6 @@ dark:active:bg-stone-600
 dark:active:bg-stone-700
 dark:active:bg-stone-800
 dark:active:bg-stone-900
-dark:active:bg-stone-950
 dark:active:bg-red-50
 dark:active:bg-red-100
 dark:active:bg-red-200
@@ -1056,7 +963,6 @@ dark:active:bg-red-600
 dark:active:bg-red-700
 dark:active:bg-red-800
 dark:active:bg-red-900
-dark:active:bg-red-950
 dark:active:bg-orange-50
 dark:active:bg-orange-100
 dark:active:bg-orange-200
@@ -1067,7 +973,6 @@ dark:active:bg-orange-600
 dark:active:bg-orange-700
 dark:active:bg-orange-800
 dark:active:bg-orange-900
-dark:active:bg-orange-950
 dark:active:bg-amber-50
 dark:active:bg-amber-100
 dark:active:bg-amber-200
@@ -1078,7 +983,6 @@ dark:active:bg-amber-600
 dark:active:bg-amber-700
 dark:active:bg-amber-800
 dark:active:bg-amber-900
-dark:active:bg-amber-950
 dark:active:bg-yellow-50
 dark:active:bg-yellow-100
 dark:active:bg-yellow-200
@@ -1089,7 +993,6 @@ dark:active:bg-yellow-600
 dark:active:bg-yellow-700
 dark:active:bg-yellow-800
 dark:active:bg-yellow-900
-dark:active:bg-yellow-950
 dark:active:bg-lime-50
 dark:active:bg-lime-100
 dark:active:bg-lime-200
@@ -1100,7 +1003,6 @@ dark:active:bg-lime-600
 dark:active:bg-lime-700
 dark:active:bg-lime-800
 dark:active:bg-lime-900
-dark:active:bg-lime-950
 dark:active:bg-green-50
 dark:active:bg-green-100
 dark:active:bg-green-200
@@ -1111,7 +1013,6 @@ dark:active:bg-green-600
 dark:active:bg-green-700
 dark:active:bg-green-800
 dark:active:bg-green-900
-dark:active:bg-green-950
 dark:active:bg-emerald-50
 dark:active:bg-emerald-100
 dark:active:bg-emerald-200
@@ -1122,7 +1023,6 @@ dark:active:bg-emerald-600
 dark:active:bg-emerald-700
 dark:active:bg-emerald-800
 dark:active:bg-emerald-900
-dark:active:bg-emerald-950
 dark:active:bg-teal-50
 dark:active:bg-teal-100
 dark:active:bg-teal-200
@@ -1133,7 +1033,6 @@ dark:active:bg-teal-600
 dark:active:bg-teal-700
 dark:active:bg-teal-800
 dark:active:bg-teal-900
-dark:active:bg-teal-950
 dark:active:bg-cyan-50
 dark:active:bg-cyan-100
 dark:active:bg-cyan-200
@@ -1144,7 +1043,6 @@ dark:active:bg-cyan-600
 dark:active:bg-cyan-700
 dark:active:bg-cyan-800
 dark:active:bg-cyan-900
-dark:active:bg-cyan-950
 dark:active:bg-sky-50
 dark:active:bg-sky-100
 dark:active:bg-sky-200
@@ -1155,7 +1053,6 @@ dark:active:bg-sky-600
 dark:active:bg-sky-700
 dark:active:bg-sky-800
 dark:active:bg-sky-900
-dark:active:bg-sky-950
 dark:active:bg-blue-50
 dark:active:bg-blue-100
 dark:active:bg-blue-200
@@ -1166,7 +1063,6 @@ dark:active:bg-blue-600
 dark:active:bg-blue-700
 dark:active:bg-blue-800
 dark:active:bg-blue-900
-dark:active:bg-blue-950
 dark:active:bg-indigo-50
 dark:active:bg-indigo-100
 dark:active:bg-indigo-200
@@ -1177,7 +1073,6 @@ dark:active:bg-indigo-600
 dark:active:bg-indigo-700
 dark:active:bg-indigo-800
 dark:active:bg-indigo-900
-dark:active:bg-indigo-950
 dark:active:bg-violet-50
 dark:active:bg-violet-100
 dark:active:bg-violet-200
@@ -1188,7 +1083,6 @@ dark:active:bg-violet-600
 dark:active:bg-violet-700
 dark:active:bg-violet-800
 dark:active:bg-violet-900
-dark:active:bg-violet-950
 dark:active:bg-purple-50
 dark:active:bg-purple-100
 dark:active:bg-purple-200
@@ -1199,7 +1093,6 @@ dark:active:bg-purple-600
 dark:active:bg-purple-700
 dark:active:bg-purple-800
 dark:active:bg-purple-900
-dark:active:bg-purple-950
 dark:active:bg-fuchsia-50
 dark:active:bg-fuchsia-100
 dark:active:bg-fuchsia-200
@@ -1210,7 +1103,6 @@ dark:active:bg-fuchsia-600
 dark:active:bg-fuchsia-700
 dark:active:bg-fuchsia-800
 dark:active:bg-fuchsia-900
-dark:active:bg-fuchsia-950
 dark:active:bg-pink-50
 dark:active:bg-pink-100
 dark:active:bg-pink-200
@@ -1221,7 +1113,6 @@ dark:active:bg-pink-600
 dark:active:bg-pink-700
 dark:active:bg-pink-800
 dark:active:bg-pink-900
-dark:active:bg-pink-950
 dark:active:bg-rose-50
 dark:active:bg-rose-100
 dark:active:bg-rose-200
@@ -1232,7 +1123,6 @@ dark:active:bg-rose-600
 dark:active:bg-rose-700
 dark:active:bg-rose-800
 dark:active:bg-rose-900
-dark:active:bg-rose-950
 hover:text-inherit
 hover:text-current
 hover:text-transparent
@@ -1248,7 +1138,6 @@ hover:text-slate-600
 hover:text-slate-700
 hover:text-slate-800
 hover:text-slate-900
-hover:text-slate-950
 hover:text-gray-50
 hover:text-gray-100
 hover:text-gray-200
@@ -1259,7 +1148,6 @@ hover:text-gray-600
 hover:text-gray-700
 hover:text-gray-800
 hover:text-gray-900
-hover:text-gray-950
 hover:text-zinc-50
 hover:text-zinc-100
 hover:text-zinc-200
@@ -1270,7 +1158,6 @@ hover:text-zinc-600
 hover:text-zinc-700
 hover:text-zinc-800
 hover:text-zinc-900
-hover:text-zinc-950
 hover:text-neutral-50
 hover:text-neutral-100
 hover:text-neutral-200
@@ -1281,7 +1168,6 @@ hover:text-neutral-600
 hover:text-neutral-700
 hover:text-neutral-800
 hover:text-neutral-900
-hover:text-neutral-950
 hover:text-stone-50
 hover:text-stone-100
 hover:text-stone-200
@@ -1292,7 +1178,6 @@ hover:text-stone-600
 hover:text-stone-700
 hover:text-stone-800
 hover:text-stone-900
-hover:text-stone-950
 hover:text-red-50
 hover:text-red-100
 hover:text-red-200
@@ -1303,7 +1188,6 @@ hover:text-red-600
 hover:text-red-700
 hover:text-red-800
 hover:text-red-900
-hover:text-red-950
 hover:text-orange-50
 hover:text-orange-100
 hover:text-orange-200
@@ -1314,7 +1198,6 @@ hover:text-orange-600
 hover:text-orange-700
 hover:text-orange-800
 hover:text-orange-900
-hover:text-orange-950
 hover:text-amber-50
 hover:text-amber-100
 hover:text-amber-200
@@ -1325,7 +1208,6 @@ hover:text-amber-600
 hover:text-amber-700
 hover:text-amber-800
 hover:text-amber-900
-hover:text-amber-950
 hover:text-yellow-50
 hover:text-yellow-100
 hover:text-yellow-200
@@ -1336,7 +1218,6 @@ hover:text-yellow-600
 hover:text-yellow-700
 hover:text-yellow-800
 hover:text-yellow-900
-hover:text-yellow-950
 hover:text-lime-50
 hover:text-lime-100
 hover:text-lime-200
@@ -1347,7 +1228,6 @@ hover:text-lime-600
 hover:text-lime-700
 hover:text-lime-800
 hover:text-lime-900
-hover:text-lime-950
 hover:text-green-50
 hover:text-green-100
 hover:text-green-200
@@ -1358,7 +1238,6 @@ hover:text-green-600
 hover:text-green-700
 hover:text-green-800
 hover:text-green-900
-hover:text-green-950
 hover:text-emerald-50
 hover:text-emerald-100
 hover:text-emerald-200
@@ -1369,7 +1248,6 @@ hover:text-emerald-600
 hover:text-emerald-700
 hover:text-emerald-800
 hover:text-emerald-900
-hover:text-emerald-950
 hover:text-teal-50
 hover:text-teal-100
 hover:text-teal-200
@@ -1380,7 +1258,6 @@ hover:text-teal-600
 hover:text-teal-700
 hover:text-teal-800
 hover:text-teal-900
-hover:text-teal-950
 hover:text-cyan-50
 hover:text-cyan-100
 hover:text-cyan-200
@@ -1391,7 +1268,6 @@ hover:text-cyan-600
 hover:text-cyan-700
 hover:text-cyan-800
 hover:text-cyan-900
-hover:text-cyan-950
 hover:text-sky-50
 hover:text-sky-100
 hover:text-sky-200
@@ -1402,7 +1278,6 @@ hover:text-sky-600
 hover:text-sky-700
 hover:text-sky-800
 hover:text-sky-900
-hover:text-sky-950
 hover:text-blue-50
 hover:text-blue-100
 hover:text-blue-200
@@ -1413,7 +1288,6 @@ hover:text-blue-600
 hover:text-blue-700
 hover:text-blue-800
 hover:text-blue-900
-hover:text-blue-950
 hover:text-indigo-50
 hover:text-indigo-100
 hover:text-indigo-200
@@ -1424,7 +1298,6 @@ hover:text-indigo-600
 hover:text-indigo-700
 hover:text-indigo-800
 hover:text-indigo-900
-hover:text-indigo-950
 hover:text-violet-50
 hover:text-violet-100
 hover:text-violet-200
@@ -1435,7 +1308,6 @@ hover:text-violet-600
 hover:text-violet-700
 hover:text-violet-800
 hover:text-violet-900
-hover:text-violet-950
 hover:text-purple-50
 hover:text-purple-100
 hover:text-purple-200
@@ -1446,7 +1318,6 @@ hover:text-purple-600
 hover:text-purple-700
 hover:text-purple-800
 hover:text-purple-900
-hover:text-purple-950
 hover:text-fuchsia-50
 hover:text-fuchsia-100
 hover:text-fuchsia-200
@@ -1457,7 +1328,6 @@ hover:text-fuchsia-600
 hover:text-fuchsia-700
 hover:text-fuchsia-800
 hover:text-fuchsia-900
-hover:text-fuchsia-950
 hover:text-pink-50
 hover:text-pink-100
 hover:text-pink-200
@@ -1468,7 +1338,6 @@ hover:text-pink-600
 hover:text-pink-700
 hover:text-pink-800
 hover:text-pink-900
-hover:text-pink-950
 hover:text-rose-50
 hover:text-rose-100
 hover:text-rose-200
@@ -1479,7 +1348,6 @@ hover:text-rose-600
 hover:text-rose-700
 hover:text-rose-800
 hover:text-rose-900
-hover:text-rose-950
 hover:bg-inherit
 hover:bg-current
 hover:bg-transparent
@@ -1495,7 +1363,6 @@ hover:bg-slate-600
 hover:bg-slate-700
 hover:bg-slate-800
 hover:bg-slate-900
-hover:bg-slate-950
 hover:bg-gray-50
 hover:bg-gray-100
 hover:bg-gray-200
@@ -1506,7 +1373,6 @@ hover:bg-gray-600
 hover:bg-gray-700
 hover:bg-gray-800
 hover:bg-gray-900
-hover:bg-gray-950
 hover:bg-zinc-50
 hover:bg-zinc-100
 hover:bg-zinc-200
@@ -1517,7 +1383,6 @@ hover:bg-zinc-600
 hover:bg-zinc-700
 hover:bg-zinc-800
 hover:bg-zinc-900
-hover:bg-zinc-950
 hover:bg-neutral-50
 hover:bg-neutral-100
 hover:bg-neutral-200
@@ -1528,7 +1393,6 @@ hover:bg-neutral-600
 hover:bg-neutral-700
 hover:bg-neutral-800
 hover:bg-neutral-900
-hover:bg-neutral-950
 hover:bg-stone-50
 hover:bg-stone-100
 hover:bg-stone-200
@@ -1539,7 +1403,6 @@ hover:bg-stone-600
 hover:bg-stone-700
 hover:bg-stone-800
 hover:bg-stone-900
-hover:bg-stone-950
 hover:bg-red-50
 hover:bg-red-100
 hover:bg-red-200
@@ -1550,7 +1413,6 @@ hover:bg-red-600
 hover:bg-red-700
 hover:bg-red-800
 hover:bg-red-900
-hover:bg-red-950
 hover:bg-orange-50
 hover:bg-orange-100
 hover:bg-orange-200
@@ -1561,7 +1423,6 @@ hover:bg-orange-600
 hover:bg-orange-700
 hover:bg-orange-800
 hover:bg-orange-900
-hover:bg-orange-950
 hover:bg-amber-50
 hover:bg-amber-100
 hover:bg-amber-200
@@ -1572,7 +1433,6 @@ hover:bg-amber-600
 hover:bg-amber-700
 hover:bg-amber-800
 hover:bg-amber-900
-hover:bg-amber-950
 hover:bg-yellow-50
 hover:bg-yellow-100
 hover:bg-yellow-200
@@ -1583,7 +1443,6 @@ hover:bg-yellow-600
 hover:bg-yellow-700
 hover:bg-yellow-800
 hover:bg-yellow-900
-hover:bg-yellow-950
 hover:bg-lime-50
 hover:bg-lime-100
 hover:bg-lime-200
@@ -1594,7 +1453,6 @@ hover:bg-lime-600
 hover:bg-lime-700
 hover:bg-lime-800
 hover:bg-lime-900
-hover:bg-lime-950
 hover:bg-green-50
 hover:bg-green-100
 hover:bg-green-200
@@ -1605,7 +1463,6 @@ hover:bg-green-600
 hover:bg-green-700
 hover:bg-green-800
 hover:bg-green-900
-hover:bg-green-950
 hover:bg-emerald-50
 hover:bg-emerald-100
 hover:bg-emerald-200
@@ -1616,7 +1473,6 @@ hover:bg-emerald-600
 hover:bg-emerald-700
 hover:bg-emerald-800
 hover:bg-emerald-900
-hover:bg-emerald-950
 hover:bg-teal-50
 hover:bg-teal-100
 hover:bg-teal-200
@@ -1627,7 +1483,6 @@ hover:bg-teal-600
 hover:bg-teal-700
 hover:bg-teal-800
 hover:bg-teal-900
-hover:bg-teal-950
 hover:bg-cyan-50
 hover:bg-cyan-100
 hover:bg-cyan-200
@@ -1638,7 +1493,6 @@ hover:bg-cyan-600
 hover:bg-cyan-700
 hover:bg-cyan-800
 hover:bg-cyan-900
-hover:bg-cyan-950
 hover:bg-sky-50
 hover:bg-sky-100
 hover:bg-sky-200
@@ -1649,7 +1503,6 @@ hover:bg-sky-600
 hover:bg-sky-700
 hover:bg-sky-800
 hover:bg-sky-900
-hover:bg-sky-950
 hover:bg-blue-50
 hover:bg-blue-100
 hover:bg-blue-200
@@ -1660,7 +1513,6 @@ hover:bg-blue-600
 hover:bg-blue-700
 hover:bg-blue-800
 hover:bg-blue-900
-hover:bg-blue-950
 hover:bg-indigo-50
 hover:bg-indigo-100
 hover:bg-indigo-200
@@ -1671,7 +1523,6 @@ hover:bg-indigo-600
 hover:bg-indigo-700
 hover:bg-indigo-800
 hover:bg-indigo-900
-hover:bg-indigo-950
 hover:bg-violet-50
 hover:bg-violet-100
 hover:bg-violet-200
@@ -1682,7 +1533,6 @@ hover:bg-violet-600
 hover:bg-violet-700
 hover:bg-violet-800
 hover:bg-violet-900
-hover:bg-violet-950
 hover:bg-purple-50
 hover:bg-purple-100
 hover:bg-purple-200
@@ -1693,7 +1543,6 @@ hover:bg-purple-600
 hover:bg-purple-700
 hover:bg-purple-800
 hover:bg-purple-900
-hover:bg-purple-950
 hover:bg-fuchsia-50
 hover:bg-fuchsia-100
 hover:bg-fuchsia-200
@@ -1704,7 +1553,6 @@ hover:bg-fuchsia-600
 hover:bg-fuchsia-700
 hover:bg-fuchsia-800
 hover:bg-fuchsia-900
-hover:bg-fuchsia-950
 hover:bg-pink-50
 hover:bg-pink-100
 hover:bg-pink-200
@@ -1715,7 +1563,6 @@ hover:bg-pink-600
 hover:bg-pink-700
 hover:bg-pink-800
 hover:bg-pink-900
-hover:bg-pink-950
 hover:bg-rose-50
 hover:bg-rose-100
 hover:bg-rose-200
@@ -1726,7 +1573,6 @@ hover:bg-rose-600
 hover:bg-rose-700
 hover:bg-rose-800
 hover:bg-rose-900
-hover:bg-rose-950
 active:bg-inherit
 active:bg-current
 active:bg-transparent
@@ -1742,7 +1588,6 @@ active:bg-slate-600
 active:bg-slate-700
 active:bg-slate-800
 active:bg-slate-900
-active:bg-slate-950
 active:bg-gray-50
 active:bg-gray-100
 active:bg-gray-200
@@ -1753,7 +1598,6 @@ active:bg-gray-600
 active:bg-gray-700
 active:bg-gray-800
 active:bg-gray-900
-active:bg-gray-950
 active:bg-zinc-50
 active:bg-zinc-100
 active:bg-zinc-200
@@ -1764,7 +1608,6 @@ active:bg-zinc-600
 active:bg-zinc-700
 active:bg-zinc-800
 active:bg-zinc-900
-active:bg-zinc-950
 active:bg-neutral-50
 active:bg-neutral-100
 active:bg-neutral-200
@@ -1775,7 +1618,6 @@ active:bg-neutral-600
 active:bg-neutral-700
 active:bg-neutral-800
 active:bg-neutral-900
-active:bg-neutral-950
 active:bg-stone-50
 active:bg-stone-100
 active:bg-stone-200
@@ -1786,7 +1628,6 @@ active:bg-stone-600
 active:bg-stone-700
 active:bg-stone-800
 active:bg-stone-900
-active:bg-stone-950
 active:bg-red-50
 active:bg-red-100
 active:bg-red-200
@@ -1797,7 +1638,6 @@ active:bg-red-600
 active:bg-red-700
 active:bg-red-800
 active:bg-red-900
-active:bg-red-950
 active:bg-orange-50
 active:bg-orange-100
 active:bg-orange-200
@@ -1808,7 +1648,6 @@ active:bg-orange-600
 active:bg-orange-700
 active:bg-orange-800
 active:bg-orange-900
-active:bg-orange-950
 active:bg-amber-50
 active:bg-amber-100
 active:bg-amber-200
@@ -1819,7 +1658,6 @@ active:bg-amber-600
 active:bg-amber-700
 active:bg-amber-800
 active:bg-amber-900
-active:bg-amber-950
 active:bg-yellow-50
 active:bg-yellow-100
 active:bg-yellow-200
@@ -1830,7 +1668,6 @@ active:bg-yellow-600
 active:bg-yellow-700
 active:bg-yellow-800
 active:bg-yellow-900
-active:bg-yellow-950
 active:bg-lime-50
 active:bg-lime-100
 active:bg-lime-200
@@ -1841,7 +1678,6 @@ active:bg-lime-600
 active:bg-lime-700
 active:bg-lime-800
 active:bg-lime-900
-active:bg-lime-950
 active:bg-green-50
 active:bg-green-100
 active:bg-green-200
@@ -1852,7 +1688,6 @@ active:bg-green-600
 active:bg-green-700
 active:bg-green-800
 active:bg-green-900
-active:bg-green-950
 active:bg-emerald-50
 active:bg-emerald-100
 active:bg-emerald-200
@@ -1863,7 +1698,6 @@ active:bg-emerald-600
 active:bg-emerald-700
 active:bg-emerald-800
 active:bg-emerald-900
-active:bg-emerald-950
 active:bg-teal-50
 active:bg-teal-100
 active:bg-teal-200
@@ -1874,7 +1708,6 @@ active:bg-teal-600
 active:bg-teal-700
 active:bg-teal-800
 active:bg-teal-900
-active:bg-teal-950
 active:bg-cyan-50
 active:bg-cyan-100
 active:bg-cyan-200
@@ -1885,7 +1718,6 @@ active:bg-cyan-600
 active:bg-cyan-700
 active:bg-cyan-800
 active:bg-cyan-900
-active:bg-cyan-950
 active:bg-sky-50
 active:bg-sky-100
 active:bg-sky-200
@@ -1896,7 +1728,6 @@ active:bg-sky-600
 active:bg-sky-700
 active:bg-sky-800
 active:bg-sky-900
-active:bg-sky-950
 active:bg-blue-50
 active:bg-blue-100
 active:bg-blue-200
@@ -1907,7 +1738,6 @@ active:bg-blue-600
 active:bg-blue-700
 active:bg-blue-800
 active:bg-blue-900
-active:bg-blue-950
 active:bg-indigo-50
 active:bg-indigo-100
 active:bg-indigo-200
@@ -1918,7 +1748,6 @@ active:bg-indigo-600
 active:bg-indigo-700
 active:bg-indigo-800
 active:bg-indigo-900
-active:bg-indigo-950
 active:bg-violet-50
 active:bg-violet-100
 active:bg-violet-200
@@ -1929,7 +1758,6 @@ active:bg-violet-600
 active:bg-violet-700
 active:bg-violet-800
 active:bg-violet-900
-active:bg-violet-950
 active:bg-purple-50
 active:bg-purple-100
 active:bg-purple-200
@@ -1940,7 +1768,6 @@ active:bg-purple-600
 active:bg-purple-700
 active:bg-purple-800
 active:bg-purple-900
-active:bg-purple-950
 active:bg-fuchsia-50
 active:bg-fuchsia-100
 active:bg-fuchsia-200
@@ -1951,7 +1778,6 @@ active:bg-fuchsia-600
 active:bg-fuchsia-700
 active:bg-fuchsia-800
 active:bg-fuchsia-900
-active:bg-fuchsia-950
 active:bg-pink-50
 active:bg-pink-100
 active:bg-pink-200
@@ -1962,7 +1788,6 @@ active:bg-pink-600
 active:bg-pink-700
 active:bg-pink-800
 active:bg-pink-900
-active:bg-pink-950
 active:bg-rose-50
 active:bg-rose-100
 active:bg-rose-200
@@ -1973,7 +1798,6 @@ active:bg-rose-600
 active:bg-rose-700
 active:bg-rose-800
 active:bg-rose-900
-active:bg-rose-950
 ring-inherit
 ring-current
 ring-transparent
@@ -1989,7 +1813,6 @@ ring-slate-600
 ring-slate-700
 ring-slate-800
 ring-slate-900
-ring-slate-950
 ring-gray-50
 ring-gray-100
 ring-gray-200
@@ -2000,7 +1823,6 @@ ring-gray-600
 ring-gray-700
 ring-gray-800
 ring-gray-900
-ring-gray-950
 ring-zinc-50
 ring-zinc-100
 ring-zinc-200
@@ -2011,7 +1833,6 @@ ring-zinc-600
 ring-zinc-700
 ring-zinc-800
 ring-zinc-900
-ring-zinc-950
 ring-neutral-50
 ring-neutral-100
 ring-neutral-200
@@ -2022,7 +1843,6 @@ ring-neutral-600
 ring-neutral-700
 ring-neutral-800
 ring-neutral-900
-ring-neutral-950
 ring-stone-50
 ring-stone-100
 ring-stone-200
@@ -2033,7 +1853,6 @@ ring-stone-600
 ring-stone-700
 ring-stone-800
 ring-stone-900
-ring-stone-950
 ring-red-50
 ring-red-100
 ring-red-200
@@ -2044,7 +1863,6 @@ ring-red-600
 ring-red-700
 ring-red-800
 ring-red-900
-ring-red-950
 ring-orange-50
 ring-orange-100
 ring-orange-200
@@ -2055,7 +1873,6 @@ ring-orange-600
 ring-orange-700
 ring-orange-800
 ring-orange-900
-ring-orange-950
 ring-amber-50
 ring-amber-100
 ring-amber-200
@@ -2066,7 +1883,6 @@ ring-amber-600
 ring-amber-700
 ring-amber-800
 ring-amber-900
-ring-amber-950
 ring-yellow-50
 ring-yellow-100
 ring-yellow-200
@@ -2077,7 +1893,6 @@ ring-yellow-600
 ring-yellow-700
 ring-yellow-800
 ring-yellow-900
-ring-yellow-950
 ring-lime-50
 ring-lime-100
 ring-lime-200
@@ -2088,7 +1903,6 @@ ring-lime-600
 ring-lime-700
 ring-lime-800
 ring-lime-900
-ring-lime-950
 ring-green-50
 ring-green-100
 ring-green-200
@@ -2099,7 +1913,6 @@ ring-green-600
 ring-green-700
 ring-green-800
 ring-green-900
-ring-green-950
 ring-emerald-50
 ring-emerald-100
 ring-emerald-200
@@ -2110,7 +1923,6 @@ ring-emerald-600
 ring-emerald-700
 ring-emerald-800
 ring-emerald-900
-ring-emerald-950
 ring-teal-50
 ring-teal-100
 ring-teal-200
@@ -2121,7 +1933,6 @@ ring-teal-600
 ring-teal-700
 ring-teal-800
 ring-teal-900
-ring-teal-950
 ring-cyan-50
 ring-cyan-100
 ring-cyan-200
@@ -2132,7 +1943,6 @@ ring-cyan-600
 ring-cyan-700
 ring-cyan-800
 ring-cyan-900
-ring-cyan-950
 ring-sky-50
 ring-sky-100
 ring-sky-200
@@ -2143,7 +1953,6 @@ ring-sky-600
 ring-sky-700
 ring-sky-800
 ring-sky-900
-ring-sky-950
 ring-blue-50
 ring-blue-100
 ring-blue-200
@@ -2154,7 +1963,6 @@ ring-blue-600
 ring-blue-700
 ring-blue-800
 ring-blue-900
-ring-blue-950
 ring-indigo-50
 ring-indigo-100
 ring-indigo-200
@@ -2165,7 +1973,6 @@ ring-indigo-600
 ring-indigo-700
 ring-indigo-800
 ring-indigo-900
-ring-indigo-950
 ring-violet-50
 ring-violet-100
 ring-violet-200
@@ -2176,7 +1983,6 @@ ring-violet-600
 ring-violet-700
 ring-violet-800
 ring-violet-900
-ring-violet-950
 ring-purple-50
 ring-purple-100
 ring-purple-200
@@ -2187,7 +1993,6 @@ ring-purple-600
 ring-purple-700
 ring-purple-800
 ring-purple-900
-ring-purple-950
 ring-fuchsia-50
 ring-fuchsia-100
 ring-fuchsia-200
@@ -2198,7 +2003,6 @@ ring-fuchsia-600
 ring-fuchsia-700
 ring-fuchsia-800
 ring-fuchsia-900
-ring-fuchsia-950
 ring-pink-50
 ring-pink-100
 ring-pink-200
@@ -2209,7 +2013,6 @@ ring-pink-600
 ring-pink-700
 ring-pink-800
 ring-pink-900
-ring-pink-950
 ring-rose-50
 ring-rose-100
 ring-rose-200
@@ -2220,7 +2023,6 @@ ring-rose-600
 ring-rose-700
 ring-rose-800
 ring-rose-900
-ring-rose-950
 hover:ring-inherit
 hover:ring-current
 hover:ring-transparent
@@ -2236,7 +2038,6 @@ hover:ring-slate-600
 hover:ring-slate-700
 hover:ring-slate-800
 hover:ring-slate-900
-hover:ring-slate-950
 hover:ring-gray-50
 hover:ring-gray-100
 hover:ring-gray-200
@@ -2247,7 +2048,6 @@ hover:ring-gray-600
 hover:ring-gray-700
 hover:ring-gray-800
 hover:ring-gray-900
-hover:ring-gray-950
 hover:ring-zinc-50
 hover:ring-zinc-100
 hover:ring-zinc-200
@@ -2258,7 +2058,6 @@ hover:ring-zinc-600
 hover:ring-zinc-700
 hover:ring-zinc-800
 hover:ring-zinc-900
-hover:ring-zinc-950
 hover:ring-neutral-50
 hover:ring-neutral-100
 hover:ring-neutral-200
@@ -2269,7 +2068,6 @@ hover:ring-neutral-600
 hover:ring-neutral-700
 hover:ring-neutral-800
 hover:ring-neutral-900
-hover:ring-neutral-950
 hover:ring-stone-50
 hover:ring-stone-100
 hover:ring-stone-200
@@ -2280,7 +2078,6 @@ hover:ring-stone-600
 hover:ring-stone-700
 hover:ring-stone-800
 hover:ring-stone-900
-hover:ring-stone-950
 hover:ring-red-50
 hover:ring-red-100
 hover:ring-red-200
@@ -2291,7 +2088,6 @@ hover:ring-red-600
 hover:ring-red-700
 hover:ring-red-800
 hover:ring-red-900
-hover:ring-red-950
 hover:ring-orange-50
 hover:ring-orange-100
 hover:ring-orange-200
@@ -2302,7 +2098,6 @@ hover:ring-orange-600
 hover:ring-orange-700
 hover:ring-orange-800
 hover:ring-orange-900
-hover:ring-orange-950
 hover:ring-amber-50
 hover:ring-amber-100
 hover:ring-amber-200
@@ -2313,7 +2108,6 @@ hover:ring-amber-600
 hover:ring-amber-700
 hover:ring-amber-800
 hover:ring-amber-900
-hover:ring-amber-950
 hover:ring-yellow-50
 hover:ring-yellow-100
 hover:ring-yellow-200
@@ -2324,7 +2118,6 @@ hover:ring-yellow-600
 hover:ring-yellow-700
 hover:ring-yellow-800
 hover:ring-yellow-900
-hover:ring-yellow-950
 hover:ring-lime-50
 hover:ring-lime-100
 hover:ring-lime-200
@@ -2335,7 +2128,6 @@ hover:ring-lime-600
 hover:ring-lime-700
 hover:ring-lime-800
 hover:ring-lime-900
-hover:ring-lime-950
 hover:ring-green-50
 hover:ring-green-100
 hover:ring-green-200
@@ -2346,7 +2138,6 @@ hover:ring-green-600
 hover:ring-green-700
 hover:ring-green-800
 hover:ring-green-900
-hover:ring-green-950
 hover:ring-emerald-50
 hover:ring-emerald-100
 hover:ring-emerald-200
@@ -2357,7 +2148,6 @@ hover:ring-emerald-600
 hover:ring-emerald-700
 hover:ring-emerald-800
 hover:ring-emerald-900
-hover:ring-emerald-950
 hover:ring-teal-50
 hover:ring-teal-100
 hover:ring-teal-200
@@ -2368,7 +2158,6 @@ hover:ring-teal-600
 hover:ring-teal-700
 hover:ring-teal-800
 hover:ring-teal-900
-hover:ring-teal-950
 hover:ring-cyan-50
 hover:ring-cyan-100
 hover:ring-cyan-200
@@ -2379,7 +2168,6 @@ hover:ring-cyan-600
 hover:ring-cyan-700
 hover:ring-cyan-800
 hover:ring-cyan-900
-hover:ring-cyan-950
 hover:ring-sky-50
 hover:ring-sky-100
 hover:ring-sky-200
@@ -2390,7 +2178,6 @@ hover:ring-sky-600
 hover:ring-sky-700
 hover:ring-sky-800
 hover:ring-sky-900
-hover:ring-sky-950
 hover:ring-blue-50
 hover:ring-blue-100
 hover:ring-blue-200
@@ -2401,7 +2188,6 @@ hover:ring-blue-600
 hover:ring-blue-700
 hover:ring-blue-800
 hover:ring-blue-900
-hover:ring-blue-950
 hover:ring-indigo-50
 hover:ring-indigo-100
 hover:ring-indigo-200
@@ -2412,7 +2198,6 @@ hover:ring-indigo-600
 hover:ring-indigo-700
 hover:ring-indigo-800
 hover:ring-indigo-900
-hover:ring-indigo-950
 hover:ring-violet-50
 hover:ring-violet-100
 hover:ring-violet-200
@@ -2423,7 +2208,6 @@ hover:ring-violet-600
 hover:ring-violet-700
 hover:ring-violet-800
 hover:ring-violet-900
-hover:ring-violet-950
 hover:ring-purple-50
 hover:ring-purple-100
 hover:ring-purple-200
@@ -2434,7 +2218,6 @@ hover:ring-purple-600
 hover:ring-purple-700
 hover:ring-purple-800
 hover:ring-purple-900
-hover:ring-purple-950
 hover:ring-fuchsia-50
 hover:ring-fuchsia-100
 hover:ring-fuchsia-200
@@ -2445,7 +2228,6 @@ hover:ring-fuchsia-600
 hover:ring-fuchsia-700
 hover:ring-fuchsia-800
 hover:ring-fuchsia-900
-hover:ring-fuchsia-950
 hover:ring-pink-50
 hover:ring-pink-100
 hover:ring-pink-200
@@ -2456,7 +2238,6 @@ hover:ring-pink-600
 hover:ring-pink-700
 hover:ring-pink-800
 hover:ring-pink-900
-hover:ring-pink-950
 hover:ring-rose-50
 hover:ring-rose-100
 hover:ring-rose-200
@@ -2467,7 +2248,6 @@ hover:ring-rose-600
 hover:ring-rose-700
 hover:ring-rose-800
 hover:ring-rose-900
-hover:ring-rose-950
 focus:ring-inherit
 focus:ring-current
 focus:ring-transparent
@@ -2483,7 +2263,6 @@ focus:ring-slate-600
 focus:ring-slate-700
 focus:ring-slate-800
 focus:ring-slate-900
-focus:ring-slate-950
 focus:ring-gray-50
 focus:ring-gray-100
 focus:ring-gray-200
@@ -2494,7 +2273,6 @@ focus:ring-gray-600
 focus:ring-gray-700
 focus:ring-gray-800
 focus:ring-gray-900
-focus:ring-gray-950
 focus:ring-zinc-50
 focus:ring-zinc-100
 focus:ring-zinc-200
@@ -2505,7 +2283,6 @@ focus:ring-zinc-600
 focus:ring-zinc-700
 focus:ring-zinc-800
 focus:ring-zinc-900
-focus:ring-zinc-950
 focus:ring-neutral-50
 focus:ring-neutral-100
 focus:ring-neutral-200
@@ -2516,7 +2293,6 @@ focus:ring-neutral-600
 focus:ring-neutral-700
 focus:ring-neutral-800
 focus:ring-neutral-900
-focus:ring-neutral-950
 focus:ring-stone-50
 focus:ring-stone-100
 focus:ring-stone-200
@@ -2527,7 +2303,6 @@ focus:ring-stone-600
 focus:ring-stone-700
 focus:ring-stone-800
 focus:ring-stone-900
-focus:ring-stone-950
 focus:ring-red-50
 focus:ring-red-100
 focus:ring-red-200
@@ -2538,7 +2313,6 @@ focus:ring-red-600
 focus:ring-red-700
 focus:ring-red-800
 focus:ring-red-900
-focus:ring-red-950
 focus:ring-orange-50
 focus:ring-orange-100
 focus:ring-orange-200
@@ -2549,7 +2323,6 @@ focus:ring-orange-600
 focus:ring-orange-700
 focus:ring-orange-800
 focus:ring-orange-900
-focus:ring-orange-950
 focus:ring-amber-50
 focus:ring-amber-100
 focus:ring-amber-200
@@ -2560,7 +2333,6 @@ focus:ring-amber-600
 focus:ring-amber-700
 focus:ring-amber-800
 focus:ring-amber-900
-focus:ring-amber-950
 focus:ring-yellow-50
 focus:ring-yellow-100
 focus:ring-yellow-200
@@ -2571,7 +2343,6 @@ focus:ring-yellow-600
 focus:ring-yellow-700
 focus:ring-yellow-800
 focus:ring-yellow-900
-focus:ring-yellow-950
 focus:ring-lime-50
 focus:ring-lime-100
 focus:ring-lime-200
@@ -2582,7 +2353,6 @@ focus:ring-lime-600
 focus:ring-lime-700
 focus:ring-lime-800
 focus:ring-lime-900
-focus:ring-lime-950
 focus:ring-green-50
 focus:ring-green-100
 focus:ring-green-200
@@ -2593,7 +2363,6 @@ focus:ring-green-600
 focus:ring-green-700
 focus:ring-green-800
 focus:ring-green-900
-focus:ring-green-950
 focus:ring-emerald-50
 focus:ring-emerald-100
 focus:ring-emerald-200
@@ -2604,7 +2373,6 @@ focus:ring-emerald-600
 focus:ring-emerald-700
 focus:ring-emerald-800
 focus:ring-emerald-900
-focus:ring-emerald-950
 focus:ring-teal-50
 focus:ring-teal-100
 focus:ring-teal-200
@@ -2615,7 +2383,6 @@ focus:ring-teal-600
 focus:ring-teal-700
 focus:ring-teal-800
 focus:ring-teal-900
-focus:ring-teal-950
 focus:ring-cyan-50
 focus:ring-cyan-100
 focus:ring-cyan-200
@@ -2626,7 +2393,6 @@ focus:ring-cyan-600
 focus:ring-cyan-700
 focus:ring-cyan-800
 focus:ring-cyan-900
-focus:ring-cyan-950
 focus:ring-sky-50
 focus:ring-sky-100
 focus:ring-sky-200
@@ -2637,7 +2403,6 @@ focus:ring-sky-600
 focus:ring-sky-700
 focus:ring-sky-800
 focus:ring-sky-900
-focus:ring-sky-950
 focus:ring-blue-50
 focus:ring-blue-100
 focus:ring-blue-200
@@ -2648,7 +2413,6 @@ focus:ring-blue-600
 focus:ring-blue-700
 focus:ring-blue-800
 focus:ring-blue-900
-focus:ring-blue-950
 focus:ring-indigo-50
 focus:ring-indigo-100
 focus:ring-indigo-200
@@ -2659,7 +2423,6 @@ focus:ring-indigo-600
 focus:ring-indigo-700
 focus:ring-indigo-800
 focus:ring-indigo-900
-focus:ring-indigo-950
 focus:ring-violet-50
 focus:ring-violet-100
 focus:ring-violet-200
@@ -2670,7 +2433,6 @@ focus:ring-violet-600
 focus:ring-violet-700
 focus:ring-violet-800
 focus:ring-violet-900
-focus:ring-violet-950
 focus:ring-purple-50
 focus:ring-purple-100
 focus:ring-purple-200
@@ -2681,7 +2443,6 @@ focus:ring-purple-600
 focus:ring-purple-700
 focus:ring-purple-800
 focus:ring-purple-900
-focus:ring-purple-950
 focus:ring-fuchsia-50
 focus:ring-fuchsia-100
 focus:ring-fuchsia-200
@@ -2692,7 +2453,6 @@ focus:ring-fuchsia-600
 focus:ring-fuchsia-700
 focus:ring-fuchsia-800
 focus:ring-fuchsia-900
-focus:ring-fuchsia-950
 focus:ring-pink-50
 focus:ring-pink-100
 focus:ring-pink-200
@@ -2703,7 +2463,6 @@ focus:ring-pink-600
 focus:ring-pink-700
 focus:ring-pink-800
 focus:ring-pink-900
-focus:ring-pink-950
 focus:ring-rose-50
 focus:ring-rose-100
 focus:ring-rose-200
@@ -2714,7 +2473,6 @@ focus:ring-rose-600
 focus:ring-rose-700
 focus:ring-rose-800
 focus:ring-rose-900
-focus:ring-rose-950
 focus-within:ring-inherit
 focus-within:ring-current
 focus-within:ring-transparent
@@ -2730,7 +2488,6 @@ focus-within:ring-slate-600
 focus-within:ring-slate-700
 focus-within:ring-slate-800
 focus-within:ring-slate-900
-focus-within:ring-slate-950
 focus-within:ring-gray-50
 focus-within:ring-gray-100
 focus-within:ring-gray-200
@@ -2741,7 +2498,6 @@ focus-within:ring-gray-600
 focus-within:ring-gray-700
 focus-within:ring-gray-800
 focus-within:ring-gray-900
-focus-within:ring-gray-950
 focus-within:ring-zinc-50
 focus-within:ring-zinc-100
 focus-within:ring-zinc-200
@@ -2752,7 +2508,6 @@ focus-within:ring-zinc-600
 focus-within:ring-zinc-700
 focus-within:ring-zinc-800
 focus-within:ring-zinc-900
-focus-within:ring-zinc-950
 focus-within:ring-neutral-50
 focus-within:ring-neutral-100
 focus-within:ring-neutral-200
@@ -2763,7 +2518,6 @@ focus-within:ring-neutral-600
 focus-within:ring-neutral-700
 focus-within:ring-neutral-800
 focus-within:ring-neutral-900
-focus-within:ring-neutral-950
 focus-within:ring-stone-50
 focus-within:ring-stone-100
 focus-within:ring-stone-200
@@ -2774,7 +2528,6 @@ focus-within:ring-stone-600
 focus-within:ring-stone-700
 focus-within:ring-stone-800
 focus-within:ring-stone-900
-focus-within:ring-stone-950
 focus-within:ring-red-50
 focus-within:ring-red-100
 focus-within:ring-red-200
@@ -2785,7 +2538,6 @@ focus-within:ring-red-600
 focus-within:ring-red-700
 focus-within:ring-red-800
 focus-within:ring-red-900
-focus-within:ring-red-950
 focus-within:ring-orange-50
 focus-within:ring-orange-100
 focus-within:ring-orange-200
@@ -2796,7 +2548,6 @@ focus-within:ring-orange-600
 focus-within:ring-orange-700
 focus-within:ring-orange-800
 focus-within:ring-orange-900
-focus-within:ring-orange-950
 focus-within:ring-amber-50
 focus-within:ring-amber-100
 focus-within:ring-amber-200
@@ -2807,7 +2558,6 @@ focus-within:ring-amber-600
 focus-within:ring-amber-700
 focus-within:ring-amber-800
 focus-within:ring-amber-900
-focus-within:ring-amber-950
 focus-within:ring-yellow-50
 focus-within:ring-yellow-100
 focus-within:ring-yellow-200
@@ -2818,7 +2568,6 @@ focus-within:ring-yellow-600
 focus-within:ring-yellow-700
 focus-within:ring-yellow-800
 focus-within:ring-yellow-900
-focus-within:ring-yellow-950
 focus-within:ring-lime-50
 focus-within:ring-lime-100
 focus-within:ring-lime-200
@@ -2829,7 +2578,6 @@ focus-within:ring-lime-600
 focus-within:ring-lime-700
 focus-within:ring-lime-800
 focus-within:ring-lime-900
-focus-within:ring-lime-950
 focus-within:ring-green-50
 focus-within:ring-green-100
 focus-within:ring-green-200
@@ -2840,7 +2588,6 @@ focus-within:ring-green-600
 focus-within:ring-green-700
 focus-within:ring-green-800
 focus-within:ring-green-900
-focus-within:ring-green-950
 focus-within:ring-emerald-50
 focus-within:ring-emerald-100
 focus-within:ring-emerald-200
@@ -2851,7 +2598,6 @@ focus-within:ring-emerald-600
 focus-within:ring-emerald-700
 focus-within:ring-emerald-800
 focus-within:ring-emerald-900
-focus-within:ring-emerald-950
 focus-within:ring-teal-50
 focus-within:ring-teal-100
 focus-within:ring-teal-200
@@ -2862,7 +2608,6 @@ focus-within:ring-teal-600
 focus-within:ring-teal-700
 focus-within:ring-teal-800
 focus-within:ring-teal-900
-focus-within:ring-teal-950
 focus-within:ring-cyan-50
 focus-within:ring-cyan-100
 focus-within:ring-cyan-200
@@ -2873,7 +2618,6 @@ focus-within:ring-cyan-600
 focus-within:ring-cyan-700
 focus-within:ring-cyan-800
 focus-within:ring-cyan-900
-focus-within:ring-cyan-950
 focus-within:ring-sky-50
 focus-within:ring-sky-100
 focus-within:ring-sky-200
@@ -2884,7 +2628,6 @@ focus-within:ring-sky-600
 focus-within:ring-sky-700
 focus-within:ring-sky-800
 focus-within:ring-sky-900
-focus-within:ring-sky-950
 focus-within:ring-blue-50
 focus-within:ring-blue-100
 focus-within:ring-blue-200
@@ -2895,7 +2638,6 @@ focus-within:ring-blue-600
 focus-within:ring-blue-700
 focus-within:ring-blue-800
 focus-within:ring-blue-900
-focus-within:ring-blue-950
 focus-within:ring-indigo-50
 focus-within:ring-indigo-100
 focus-within:ring-indigo-200
@@ -2906,7 +2648,6 @@ focus-within:ring-indigo-600
 focus-within:ring-indigo-700
 focus-within:ring-indigo-800
 focus-within:ring-indigo-900
-focus-within:ring-indigo-950
 focus-within:ring-violet-50
 focus-within:ring-violet-100
 focus-within:ring-violet-200
@@ -2917,7 +2658,6 @@ focus-within:ring-violet-600
 focus-within:ring-violet-700
 focus-within:ring-violet-800
 focus-within:ring-violet-900
-focus-within:ring-violet-950
 focus-within:ring-purple-50
 focus-within:ring-purple-100
 focus-within:ring-purple-200
@@ -2928,7 +2668,6 @@ focus-within:ring-purple-600
 focus-within:ring-purple-700
 focus-within:ring-purple-800
 focus-within:ring-purple-900
-focus-within:ring-purple-950
 focus-within:ring-fuchsia-50
 focus-within:ring-fuchsia-100
 focus-within:ring-fuchsia-200
@@ -2939,7 +2678,6 @@ focus-within:ring-fuchsia-600
 focus-within:ring-fuchsia-700
 focus-within:ring-fuchsia-800
 focus-within:ring-fuchsia-900
-focus-within:ring-fuchsia-950
 focus-within:ring-pink-50
 focus-within:ring-pink-100
 focus-within:ring-pink-200
@@ -2950,7 +2688,6 @@ focus-within:ring-pink-600
 focus-within:ring-pink-700
 focus-within:ring-pink-800
 focus-within:ring-pink-900
-focus-within:ring-pink-950
 focus-within:ring-rose-50
 focus-within:ring-rose-100
 focus-within:ring-rose-200
@@ -2961,7 +2698,6 @@ focus-within:ring-rose-600
 focus-within:ring-rose-700
 focus-within:ring-rose-800
 focus-within:ring-rose-900
-focus-within:ring-rose-950
 border-inherit
 border-current
 border-transparent
@@ -2977,7 +2713,6 @@ border-slate-600
 border-slate-700
 border-slate-800
 border-slate-900
-border-slate-950
 border-gray-50
 border-gray-100
 border-gray-200
@@ -2988,7 +2723,6 @@ border-gray-600
 border-gray-700
 border-gray-800
 border-gray-900
-border-gray-950
 border-zinc-50
 border-zinc-100
 border-zinc-200
@@ -2999,7 +2733,6 @@ border-zinc-600
 border-zinc-700
 border-zinc-800
 border-zinc-900
-border-zinc-950
 border-neutral-50
 border-neutral-100
 border-neutral-200
@@ -3010,7 +2743,6 @@ border-neutral-600
 border-neutral-700
 border-neutral-800
 border-neutral-900
-border-neutral-950
 border-stone-50
 border-stone-100
 border-stone-200
@@ -3021,7 +2753,6 @@ border-stone-600
 border-stone-700
 border-stone-800
 border-stone-900
-border-stone-950
 border-red-50
 border-red-100
 border-red-200
@@ -3032,7 +2763,6 @@ border-red-600
 border-red-700
 border-red-800
 border-red-900
-border-red-950
 border-orange-50
 border-orange-100
 border-orange-200
@@ -3043,7 +2773,6 @@ border-orange-600
 border-orange-700
 border-orange-800
 border-orange-900
-border-orange-950
 border-amber-50
 border-amber-100
 border-amber-200
@@ -3054,7 +2783,6 @@ border-amber-600
 border-amber-700
 border-amber-800
 border-amber-900
-border-amber-950
 border-yellow-50
 border-yellow-100
 border-yellow-200
@@ -3065,7 +2793,6 @@ border-yellow-600
 border-yellow-700
 border-yellow-800
 border-yellow-900
-border-yellow-950
 border-lime-50
 border-lime-100
 border-lime-200
@@ -3076,7 +2803,6 @@ border-lime-600
 border-lime-700
 border-lime-800
 border-lime-900
-border-lime-950
 border-green-50
 border-green-100
 border-green-200
@@ -3087,7 +2813,6 @@ border-green-600
 border-green-700
 border-green-800
 border-green-900
-border-green-950
 border-emerald-50
 border-emerald-100
 border-emerald-200
@@ -3098,7 +2823,6 @@ border-emerald-600
 border-emerald-700
 border-emerald-800
 border-emerald-900
-border-emerald-950
 border-teal-50
 border-teal-100
 border-teal-200
@@ -3109,7 +2833,6 @@ border-teal-600
 border-teal-700
 border-teal-800
 border-teal-900
-border-teal-950
 border-cyan-50
 border-cyan-100
 border-cyan-200
@@ -3120,7 +2843,6 @@ border-cyan-600
 border-cyan-700
 border-cyan-800
 border-cyan-900
-border-cyan-950
 border-sky-50
 border-sky-100
 border-sky-200
@@ -3131,7 +2853,6 @@ border-sky-600
 border-sky-700
 border-sky-800
 border-sky-900
-border-sky-950
 border-blue-50
 border-blue-100
 border-blue-200
@@ -3142,7 +2863,6 @@ border-blue-600
 border-blue-700
 border-blue-800
 border-blue-900
-border-blue-950
 border-indigo-50
 border-indigo-100
 border-indigo-200
@@ -3153,7 +2873,6 @@ border-indigo-600
 border-indigo-700
 border-indigo-800
 border-indigo-900
-border-indigo-950
 border-violet-50
 border-violet-100
 border-violet-200
@@ -3164,7 +2883,6 @@ border-violet-600
 border-violet-700
 border-violet-800
 border-violet-900
-border-violet-950
 border-purple-50
 border-purple-100
 border-purple-200
@@ -3175,7 +2893,6 @@ border-purple-600
 border-purple-700
 border-purple-800
 border-purple-900
-border-purple-950
 border-fuchsia-50
 border-fuchsia-100
 border-fuchsia-200
@@ -3186,7 +2903,6 @@ border-fuchsia-600
 border-fuchsia-700
 border-fuchsia-800
 border-fuchsia-900
-border-fuchsia-950
 border-pink-50
 border-pink-100
 border-pink-200
@@ -3197,7 +2913,6 @@ border-pink-600
 border-pink-700
 border-pink-800
 border-pink-900
-border-pink-950
 border-rose-50
 border-rose-100
 border-rose-200
@@ -3208,7 +2923,6 @@ border-rose-600
 border-rose-700
 border-rose-800
 border-rose-900
-border-rose-950
 focus:border-inherit
 focus:border-current
 focus:border-transparent
@@ -3224,7 +2938,6 @@ focus:border-slate-600
 focus:border-slate-700
 focus:border-slate-800
 focus:border-slate-900
-focus:border-slate-950
 focus:border-gray-50
 focus:border-gray-100
 focus:border-gray-200
@@ -3235,7 +2948,6 @@ focus:border-gray-600
 focus:border-gray-700
 focus:border-gray-800
 focus:border-gray-900
-focus:border-gray-950
 focus:border-zinc-50
 focus:border-zinc-100
 focus:border-zinc-200
@@ -3246,7 +2958,6 @@ focus:border-zinc-600
 focus:border-zinc-700
 focus:border-zinc-800
 focus:border-zinc-900
-focus:border-zinc-950
 focus:border-neutral-50
 focus:border-neutral-100
 focus:border-neutral-200
@@ -3257,7 +2968,6 @@ focus:border-neutral-600
 focus:border-neutral-700
 focus:border-neutral-800
 focus:border-neutral-900
-focus:border-neutral-950
 focus:border-stone-50
 focus:border-stone-100
 focus:border-stone-200
@@ -3268,7 +2978,6 @@ focus:border-stone-600
 focus:border-stone-700
 focus:border-stone-800
 focus:border-stone-900
-focus:border-stone-950
 focus:border-red-50
 focus:border-red-100
 focus:border-red-200
@@ -3279,7 +2988,6 @@ focus:border-red-600
 focus:border-red-700
 focus:border-red-800
 focus:border-red-900
-focus:border-red-950
 focus:border-orange-50
 focus:border-orange-100
 focus:border-orange-200
@@ -3290,7 +2998,6 @@ focus:border-orange-600
 focus:border-orange-700
 focus:border-orange-800
 focus:border-orange-900
-focus:border-orange-950
 focus:border-amber-50
 focus:border-amber-100
 focus:border-amber-200
@@ -3301,7 +3008,6 @@ focus:border-amber-600
 focus:border-amber-700
 focus:border-amber-800
 focus:border-amber-900
-focus:border-amber-950
 focus:border-yellow-50
 focus:border-yellow-100
 focus:border-yellow-200
@@ -3312,7 +3018,6 @@ focus:border-yellow-600
 focus:border-yellow-700
 focus:border-yellow-800
 focus:border-yellow-900
-focus:border-yellow-950
 focus:border-lime-50
 focus:border-lime-100
 focus:border-lime-200
@@ -3323,7 +3028,6 @@ focus:border-lime-600
 focus:border-lime-700
 focus:border-lime-800
 focus:border-lime-900
-focus:border-lime-950
 focus:border-green-50
 focus:border-green-100
 focus:border-green-200
@@ -3334,7 +3038,6 @@ focus:border-green-600
 focus:border-green-700
 focus:border-green-800
 focus:border-green-900
-focus:border-green-950
 focus:border-emerald-50
 focus:border-emerald-100
 focus:border-emerald-200
@@ -3345,7 +3048,6 @@ focus:border-emerald-600
 focus:border-emerald-700
 focus:border-emerald-800
 focus:border-emerald-900
-focus:border-emerald-950
 focus:border-teal-50
 focus:border-teal-100
 focus:border-teal-200
@@ -3356,7 +3058,6 @@ focus:border-teal-600
 focus:border-teal-700
 focus:border-teal-800
 focus:border-teal-900
-focus:border-teal-950
 focus:border-cyan-50
 focus:border-cyan-100
 focus:border-cyan-200
@@ -3367,7 +3068,6 @@ focus:border-cyan-600
 focus:border-cyan-700
 focus:border-cyan-800
 focus:border-cyan-900
-focus:border-cyan-950
 focus:border-sky-50
 focus:border-sky-100
 focus:border-sky-200
@@ -3378,7 +3078,6 @@ focus:border-sky-600
 focus:border-sky-700
 focus:border-sky-800
 focus:border-sky-900
-focus:border-sky-950
 focus:border-blue-50
 focus:border-blue-100
 focus:border-blue-200
@@ -3389,7 +3088,6 @@ focus:border-blue-600
 focus:border-blue-700
 focus:border-blue-800
 focus:border-blue-900
-focus:border-blue-950
 focus:border-indigo-50
 focus:border-indigo-100
 focus:border-indigo-200
@@ -3400,7 +3098,6 @@ focus:border-indigo-600
 focus:border-indigo-700
 focus:border-indigo-800
 focus:border-indigo-900
-focus:border-indigo-950
 focus:border-violet-50
 focus:border-violet-100
 focus:border-violet-200
@@ -3411,7 +3108,6 @@ focus:border-violet-600
 focus:border-violet-700
 focus:border-violet-800
 focus:border-violet-900
-focus:border-violet-950
 focus:border-purple-50
 focus:border-purple-100
 focus:border-purple-200
@@ -3422,7 +3118,6 @@ focus:border-purple-600
 focus:border-purple-700
 focus:border-purple-800
 focus:border-purple-900
-focus:border-purple-950
 focus:border-fuchsia-50
 focus:border-fuchsia-100
 focus:border-fuchsia-200
@@ -3433,7 +3128,6 @@ focus:border-fuchsia-600
 focus:border-fuchsia-700
 focus:border-fuchsia-800
 focus:border-fuchsia-900
-focus:border-fuchsia-950
 focus:border-pink-50
 focus:border-pink-100
 focus:border-pink-200
@@ -3444,7 +3138,6 @@ focus:border-pink-600
 focus:border-pink-700
 focus:border-pink-800
 focus:border-pink-900
-focus:border-pink-950
 focus:border-rose-50
 focus:border-rose-100
 focus:border-rose-200
@@ -3455,7 +3148,6 @@ focus:border-rose-600
 focus:border-rose-700
 focus:border-rose-800
 focus:border-rose-900
-focus:border-rose-950
 focus-within:border-inherit
 focus-within:border-current
 focus-within:border-transparent
@@ -3471,7 +3163,6 @@ focus-within:border-slate-600
 focus-within:border-slate-700
 focus-within:border-slate-800
 focus-within:border-slate-900
-focus-within:border-slate-950
 focus-within:border-gray-50
 focus-within:border-gray-100
 focus-within:border-gray-200
@@ -3482,7 +3173,6 @@ focus-within:border-gray-600
 focus-within:border-gray-700
 focus-within:border-gray-800
 focus-within:border-gray-900
-focus-within:border-gray-950
 focus-within:border-zinc-50
 focus-within:border-zinc-100
 focus-within:border-zinc-200
@@ -3493,7 +3183,6 @@ focus-within:border-zinc-600
 focus-within:border-zinc-700
 focus-within:border-zinc-800
 focus-within:border-zinc-900
-focus-within:border-zinc-950
 focus-within:border-neutral-50
 focus-within:border-neutral-100
 focus-within:border-neutral-200
@@ -3504,7 +3193,6 @@ focus-within:border-neutral-600
 focus-within:border-neutral-700
 focus-within:border-neutral-800
 focus-within:border-neutral-900
-focus-within:border-neutral-950
 focus-within:border-stone-50
 focus-within:border-stone-100
 focus-within:border-stone-200
@@ -3515,7 +3203,6 @@ focus-within:border-stone-600
 focus-within:border-stone-700
 focus-within:border-stone-800
 focus-within:border-stone-900
-focus-within:border-stone-950
 focus-within:border-red-50
 focus-within:border-red-100
 focus-within:border-red-200
@@ -3526,7 +3213,6 @@ focus-within:border-red-600
 focus-within:border-red-700
 focus-within:border-red-800
 focus-within:border-red-900
-focus-within:border-red-950
 focus-within:border-orange-50
 focus-within:border-orange-100
 focus-within:border-orange-200
@@ -3537,7 +3223,6 @@ focus-within:border-orange-600
 focus-within:border-orange-700
 focus-within:border-orange-800
 focus-within:border-orange-900
-focus-within:border-orange-950
 focus-within:border-amber-50
 focus-within:border-amber-100
 focus-within:border-amber-200
@@ -3548,7 +3233,6 @@ focus-within:border-amber-600
 focus-within:border-amber-700
 focus-within:border-amber-800
 focus-within:border-amber-900
-focus-within:border-amber-950
 focus-within:border-yellow-50
 focus-within:border-yellow-100
 focus-within:border-yellow-200
@@ -3559,7 +3243,6 @@ focus-within:border-yellow-600
 focus-within:border-yellow-700
 focus-within:border-yellow-800
 focus-within:border-yellow-900
-focus-within:border-yellow-950
 focus-within:border-lime-50
 focus-within:border-lime-100
 focus-within:border-lime-200
@@ -3570,7 +3253,6 @@ focus-within:border-lime-600
 focus-within:border-lime-700
 focus-within:border-lime-800
 focus-within:border-lime-900
-focus-within:border-lime-950
 focus-within:border-green-50
 focus-within:border-green-100
 focus-within:border-green-200
@@ -3581,7 +3263,6 @@ focus-within:border-green-600
 focus-within:border-green-700
 focus-within:border-green-800
 focus-within:border-green-900
-focus-within:border-green-950
 focus-within:border-emerald-50
 focus-within:border-emerald-100
 focus-within:border-emerald-200
@@ -3592,7 +3273,6 @@ focus-within:border-emerald-600
 focus-within:border-emerald-700
 focus-within:border-emerald-800
 focus-within:border-emerald-900
-focus-within:border-emerald-950
 focus-within:border-teal-50
 focus-within:border-teal-100
 focus-within:border-teal-200
@@ -3603,7 +3283,6 @@ focus-within:border-teal-600
 focus-within:border-teal-700
 focus-within:border-teal-800
 focus-within:border-teal-900
-focus-within:border-teal-950
 focus-within:border-cyan-50
 focus-within:border-cyan-100
 focus-within:border-cyan-200
@@ -3614,7 +3293,6 @@ focus-within:border-cyan-600
 focus-within:border-cyan-700
 focus-within:border-cyan-800
 focus-within:border-cyan-900
-focus-within:border-cyan-950
 focus-within:border-sky-50
 focus-within:border-sky-100
 focus-within:border-sky-200
@@ -3625,7 +3303,6 @@ focus-within:border-sky-600
 focus-within:border-sky-700
 focus-within:border-sky-800
 focus-within:border-sky-900
-focus-within:border-sky-950
 focus-within:border-blue-50
 focus-within:border-blue-100
 focus-within:border-blue-200
@@ -3636,7 +3313,6 @@ focus-within:border-blue-600
 focus-within:border-blue-700
 focus-within:border-blue-800
 focus-within:border-blue-900
-focus-within:border-blue-950
 focus-within:border-indigo-50
 focus-within:border-indigo-100
 focus-within:border-indigo-200
@@ -3647,7 +3323,6 @@ focus-within:border-indigo-600
 focus-within:border-indigo-700
 focus-within:border-indigo-800
 focus-within:border-indigo-900
-focus-within:border-indigo-950
 focus-within:border-violet-50
 focus-within:border-violet-100
 focus-within:border-violet-200
@@ -3658,7 +3333,6 @@ focus-within:border-violet-600
 focus-within:border-violet-700
 focus-within:border-violet-800
 focus-within:border-violet-900
-focus-within:border-violet-950
 focus-within:border-purple-50
 focus-within:border-purple-100
 focus-within:border-purple-200
@@ -3669,7 +3343,6 @@ focus-within:border-purple-600
 focus-within:border-purple-700
 focus-within:border-purple-800
 focus-within:border-purple-900
-focus-within:border-purple-950
 focus-within:border-fuchsia-50
 focus-within:border-fuchsia-100
 focus-within:border-fuchsia-200
@@ -3680,7 +3353,6 @@ focus-within:border-fuchsia-600
 focus-within:border-fuchsia-700
 focus-within:border-fuchsia-800
 focus-within:border-fuchsia-900
-focus-within:border-fuchsia-950
 focus-within:border-pink-50
 focus-within:border-pink-100
 focus-within:border-pink-200
@@ -3691,7 +3363,6 @@ focus-within:border-pink-600
 focus-within:border-pink-700
 focus-within:border-pink-800
 focus-within:border-pink-900
-focus-within:border-pink-950
 focus-within:border-rose-50
 focus-within:border-rose-100
 focus-within:border-rose-200
@@ -3702,7 +3373,6 @@ focus-within:border-rose-600
 focus-within:border-rose-700
 focus-within:border-rose-800
 focus-within:border-rose-900
-focus-within:border-rose-950
 dark:text-inherit
 dark:text-current
 dark:text-transparent
@@ -3718,7 +3388,6 @@ dark:text-slate-600
 dark:text-slate-700
 dark:text-slate-800
 dark:text-slate-900
-dark:text-slate-950
 dark:text-gray-50
 dark:text-gray-100
 dark:text-gray-200
@@ -3729,7 +3398,6 @@ dark:text-gray-600
 dark:text-gray-700
 dark:text-gray-800
 dark:text-gray-900
-dark:text-gray-950
 dark:text-zinc-50
 dark:text-zinc-100
 dark:text-zinc-200
@@ -3740,7 +3408,6 @@ dark:text-zinc-600
 dark:text-zinc-700
 dark:text-zinc-800
 dark:text-zinc-900
-dark:text-zinc-950
 dark:text-neutral-50
 dark:text-neutral-100
 dark:text-neutral-200
@@ -3751,7 +3418,6 @@ dark:text-neutral-600
 dark:text-neutral-700
 dark:text-neutral-800
 dark:text-neutral-900
-dark:text-neutral-950
 dark:text-stone-50
 dark:text-stone-100
 dark:text-stone-200
@@ -3762,7 +3428,6 @@ dark:text-stone-600
 dark:text-stone-700
 dark:text-stone-800
 dark:text-stone-900
-dark:text-stone-950
 dark:text-red-50
 dark:text-red-100
 dark:text-red-200
@@ -3773,7 +3438,6 @@ dark:text-red-600
 dark:text-red-700
 dark:text-red-800
 dark:text-red-900
-dark:text-red-950
 dark:text-orange-50
 dark:text-orange-100
 dark:text-orange-200
@@ -3784,7 +3448,6 @@ dark:text-orange-600
 dark:text-orange-700
 dark:text-orange-800
 dark:text-orange-900
-dark:text-orange-950
 dark:text-amber-50
 dark:text-amber-100
 dark:text-amber-200
@@ -3795,7 +3458,6 @@ dark:text-amber-600
 dark:text-amber-700
 dark:text-amber-800
 dark:text-amber-900
-dark:text-amber-950
 dark:text-yellow-50
 dark:text-yellow-100
 dark:text-yellow-200
@@ -3806,7 +3468,6 @@ dark:text-yellow-600
 dark:text-yellow-700
 dark:text-yellow-800
 dark:text-yellow-900
-dark:text-yellow-950
 dark:text-lime-50
 dark:text-lime-100
 dark:text-lime-200
@@ -3817,7 +3478,6 @@ dark:text-lime-600
 dark:text-lime-700
 dark:text-lime-800
 dark:text-lime-900
-dark:text-lime-950
 dark:text-green-50
 dark:text-green-100
 dark:text-green-200
@@ -3828,7 +3488,6 @@ dark:text-green-600
 dark:text-green-700
 dark:text-green-800
 dark:text-green-900
-dark:text-green-950
 dark:text-emerald-50
 dark:text-emerald-100
 dark:text-emerald-200
@@ -3839,7 +3498,6 @@ dark:text-emerald-600
 dark:text-emerald-700
 dark:text-emerald-800
 dark:text-emerald-900
-dark:text-emerald-950
 dark:text-teal-50
 dark:text-teal-100
 dark:text-teal-200
@@ -3850,7 +3508,6 @@ dark:text-teal-600
 dark:text-teal-700
 dark:text-teal-800
 dark:text-teal-900
-dark:text-teal-950
 dark:text-cyan-50
 dark:text-cyan-100
 dark:text-cyan-200
@@ -3861,7 +3518,6 @@ dark:text-cyan-600
 dark:text-cyan-700
 dark:text-cyan-800
 dark:text-cyan-900
-dark:text-cyan-950
 dark:text-sky-50
 dark:text-sky-100
 dark:text-sky-200
@@ -3872,7 +3528,6 @@ dark:text-sky-600
 dark:text-sky-700
 dark:text-sky-800
 dark:text-sky-900
-dark:text-sky-950
 dark:text-blue-50
 dark:text-blue-100
 dark:text-blue-200
@@ -3883,7 +3538,6 @@ dark:text-blue-600
 dark:text-blue-700
 dark:text-blue-800
 dark:text-blue-900
-dark:text-blue-950
 dark:text-indigo-50
 dark:text-indigo-100
 dark:text-indigo-200
@@ -3894,7 +3548,6 @@ dark:text-indigo-600
 dark:text-indigo-700
 dark:text-indigo-800
 dark:text-indigo-900
-dark:text-indigo-950
 dark:text-violet-50
 dark:text-violet-100
 dark:text-violet-200
@@ -3905,7 +3558,6 @@ dark:text-violet-600
 dark:text-violet-700
 dark:text-violet-800
 dark:text-violet-900
-dark:text-violet-950
 dark:text-purple-50
 dark:text-purple-100
 dark:text-purple-200
@@ -3916,7 +3568,6 @@ dark:text-purple-600
 dark:text-purple-700
 dark:text-purple-800
 dark:text-purple-900
-dark:text-purple-950
 dark:text-fuchsia-50
 dark:text-fuchsia-100
 dark:text-fuchsia-200
@@ -3927,7 +3578,6 @@ dark:text-fuchsia-600
 dark:text-fuchsia-700
 dark:text-fuchsia-800
 dark:text-fuchsia-900
-dark:text-fuchsia-950
 dark:text-pink-50
 dark:text-pink-100
 dark:text-pink-200
@@ -3938,7 +3588,6 @@ dark:text-pink-600
 dark:text-pink-700
 dark:text-pink-800
 dark:text-pink-900
-dark:text-pink-950
 dark:text-rose-50
 dark:text-rose-100
 dark:text-rose-200
@@ -3949,7 +3598,6 @@ dark:text-rose-600
 dark:text-rose-700
 dark:text-rose-800
 dark:text-rose-900
-dark:text-rose-950
 dark:hover:text-inherit
 dark:hover:text-current
 dark:hover:text-transparent
@@ -3965,7 +3613,6 @@ dark:hover:text-slate-600
 dark:hover:text-slate-700
 dark:hover:text-slate-800
 dark:hover:text-slate-900
-dark:hover:text-slate-950
 dark:hover:text-gray-50
 dark:hover:text-gray-100
 dark:hover:text-gray-200
@@ -3976,7 +3623,6 @@ dark:hover:text-gray-600
 dark:hover:text-gray-700
 dark:hover:text-gray-800
 dark:hover:text-gray-900
-dark:hover:text-gray-950
 dark:hover:text-zinc-50
 dark:hover:text-zinc-100
 dark:hover:text-zinc-200
@@ -3987,7 +3633,6 @@ dark:hover:text-zinc-600
 dark:hover:text-zinc-700
 dark:hover:text-zinc-800
 dark:hover:text-zinc-900
-dark:hover:text-zinc-950
 dark:hover:text-neutral-50
 dark:hover:text-neutral-100
 dark:hover:text-neutral-200
@@ -3998,7 +3643,6 @@ dark:hover:text-neutral-600
 dark:hover:text-neutral-700
 dark:hover:text-neutral-800
 dark:hover:text-neutral-900
-dark:hover:text-neutral-950
 dark:hover:text-stone-50
 dark:hover:text-stone-100
 dark:hover:text-stone-200
@@ -4009,7 +3653,6 @@ dark:hover:text-stone-600
 dark:hover:text-stone-700
 dark:hover:text-stone-800
 dark:hover:text-stone-900
-dark:hover:text-stone-950
 dark:hover:text-red-50
 dark:hover:text-red-100
 dark:hover:text-red-200
@@ -4020,7 +3663,6 @@ dark:hover:text-red-600
 dark:hover:text-red-700
 dark:hover:text-red-800
 dark:hover:text-red-900
-dark:hover:text-red-950
 dark:hover:text-orange-50
 dark:hover:text-orange-100
 dark:hover:text-orange-200
@@ -4031,7 +3673,6 @@ dark:hover:text-orange-600
 dark:hover:text-orange-700
 dark:hover:text-orange-800
 dark:hover:text-orange-900
-dark:hover:text-orange-950
 dark:hover:text-amber-50
 dark:hover:text-amber-100
 dark:hover:text-amber-200
@@ -4042,7 +3683,6 @@ dark:hover:text-amber-600
 dark:hover:text-amber-700
 dark:hover:text-amber-800
 dark:hover:text-amber-900
-dark:hover:text-amber-950
 dark:hover:text-yellow-50
 dark:hover:text-yellow-100
 dark:hover:text-yellow-200
@@ -4053,7 +3693,6 @@ dark:hover:text-yellow-600
 dark:hover:text-yellow-700
 dark:hover:text-yellow-800
 dark:hover:text-yellow-900
-dark:hover:text-yellow-950
 dark:hover:text-lime-50
 dark:hover:text-lime-100
 dark:hover:text-lime-200
@@ -4064,7 +3703,6 @@ dark:hover:text-lime-600
 dark:hover:text-lime-700
 dark:hover:text-lime-800
 dark:hover:text-lime-900
-dark:hover:text-lime-950
 dark:hover:text-green-50
 dark:hover:text-green-100
 dark:hover:text-green-200
@@ -4075,7 +3713,6 @@ dark:hover:text-green-600
 dark:hover:text-green-700
 dark:hover:text-green-800
 dark:hover:text-green-900
-dark:hover:text-green-950
 dark:hover:text-emerald-50
 dark:hover:text-emerald-100
 dark:hover:text-emerald-200
@@ -4086,7 +3723,6 @@ dark:hover:text-emerald-600
 dark:hover:text-emerald-700
 dark:hover:text-emerald-800
 dark:hover:text-emerald-900
-dark:hover:text-emerald-950
 dark:hover:text-teal-50
 dark:hover:text-teal-100
 dark:hover:text-teal-200
@@ -4097,7 +3733,6 @@ dark:hover:text-teal-600
 dark:hover:text-teal-700
 dark:hover:text-teal-800
 dark:hover:text-teal-900
-dark:hover:text-teal-950
 dark:hover:text-cyan-50
 dark:hover:text-cyan-100
 dark:hover:text-cyan-200
@@ -4108,7 +3743,6 @@ dark:hover:text-cyan-600
 dark:hover:text-cyan-700
 dark:hover:text-cyan-800
 dark:hover:text-cyan-900
-dark:hover:text-cyan-950
 dark:hover:text-sky-50
 dark:hover:text-sky-100
 dark:hover:text-sky-200
@@ -4119,7 +3753,6 @@ dark:hover:text-sky-600
 dark:hover:text-sky-700
 dark:hover:text-sky-800
 dark:hover:text-sky-900
-dark:hover:text-sky-950
 dark:hover:text-blue-50
 dark:hover:text-blue-100
 dark:hover:text-blue-200
@@ -4130,7 +3763,6 @@ dark:hover:text-blue-600
 dark:hover:text-blue-700
 dark:hover:text-blue-800
 dark:hover:text-blue-900
-dark:hover:text-blue-950
 dark:hover:text-indigo-50
 dark:hover:text-indigo-100
 dark:hover:text-indigo-200
@@ -4141,7 +3773,6 @@ dark:hover:text-indigo-600
 dark:hover:text-indigo-700
 dark:hover:text-indigo-800
 dark:hover:text-indigo-900
-dark:hover:text-indigo-950
 dark:hover:text-violet-50
 dark:hover:text-violet-100
 dark:hover:text-violet-200
@@ -4152,7 +3783,6 @@ dark:hover:text-violet-600
 dark:hover:text-violet-700
 dark:hover:text-violet-800
 dark:hover:text-violet-900
-dark:hover:text-violet-950
 dark:hover:text-purple-50
 dark:hover:text-purple-100
 dark:hover:text-purple-200
@@ -4163,7 +3793,6 @@ dark:hover:text-purple-600
 dark:hover:text-purple-700
 dark:hover:text-purple-800
 dark:hover:text-purple-900
-dark:hover:text-purple-950
 dark:hover:text-fuchsia-50
 dark:hover:text-fuchsia-100
 dark:hover:text-fuchsia-200
@@ -4174,7 +3803,6 @@ dark:hover:text-fuchsia-600
 dark:hover:text-fuchsia-700
 dark:hover:text-fuchsia-800
 dark:hover:text-fuchsia-900
-dark:hover:text-fuchsia-950
 dark:hover:text-pink-50
 dark:hover:text-pink-100
 dark:hover:text-pink-200
@@ -4185,7 +3813,6 @@ dark:hover:text-pink-600
 dark:hover:text-pink-700
 dark:hover:text-pink-800
 dark:hover:text-pink-900
-dark:hover:text-pink-950
 dark:hover:text-rose-50
 dark:hover:text-rose-100
 dark:hover:text-rose-200
@@ -4196,7 +3823,6 @@ dark:hover:text-rose-600
 dark:hover:text-rose-700
 dark:hover:text-rose-800
 dark:hover:text-rose-900
-dark:hover:text-rose-950
 h-0
 h-1
 h-2
@@ -4250,9 +3876,6 @@ h-4/6
 h-5/6
 h-full
 h-screen
-h-svh
-h-lvh
-h-dvh
 h-min
 h-max
 h-fit
@@ -4320,9 +3943,6 @@ w-10/12
 w-11/12
 w-full
 w-screen
-w-svw
-w-lvw
-w-dvw
 w-min
 w-max
 w-fit
