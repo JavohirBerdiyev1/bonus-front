@@ -21,13 +21,16 @@ const SignInForm = () => {
 	const navigate = useNavigate()
   // Form yuborilganda:
   const handleSubmit = async (values, { setSubmitting }) => {
+    const baseURL = import.meta.env;
+      console.log(baseURL);
+      
     setErrorMessage('') // Xatolikni avval tozalaymiz
     try {
 			
 			setSubmitting(true)
 			const hashedPassword = sha1(values.password).toString();
       const response = await fetch(
-        'http://192.168.0.41:3000/api/v1/auth/login',
+        `${import.meta.env.VITE_API_BASE_URL}/api/v1/auth/login`,
         {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
@@ -37,6 +40,7 @@ const SignInForm = () => {
           }),
         }
       )
+      
 
       console.log('Full response:', response)
 
