@@ -77,7 +77,7 @@
     "eject": "react-scripts eject",
     "build:css": "cross-env TAILWIND_MODE=build NODE_ENV=production postcss src/assets/styles/app.css -o src/index.css",
     "watch:css": "cross-env TAILWIND_MODE=watch NODE_ENV=development postcss src/assets/styles/app.css -o src/index.css --watch",
-    "react-scripts:start": "delay 5 && react-scripts start",
+    "react-scripts:start": "cross-env PORT=3001 react-scripts start",
     "react-scripts:build": "react-scripts build",
     "analyze": "source-map-explorer 'build/static/js/*.js'"
   },
