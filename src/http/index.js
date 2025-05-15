@@ -3,7 +3,7 @@ import axios from 'axios';
 
 // Misol uchun to'g'ridan-to'g'ri baseURL ni ko'rsatamiz:
 const instance = axios.create({
-  baseURL: 'http://localhost:3000/',
+  baseURL: 'http://localhost:3000/api/v1/',
   headers: {
     'Content-Type': 'application/json',
   },
