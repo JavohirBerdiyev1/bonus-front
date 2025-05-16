@@ -24,7 +24,10 @@ const MoneyTransfersTable = () => {
     try {
       setLoading(true);
       const { start, end } = getMonthRange(selectedMonth);
-      const response = await PaymentsService.getAll(pageIndex, pageSize, [start, end]);
+      const response = await PaymentsService.getAll(pageIndex, pageSize, [
+        start,
+        end,
+      ]);
       const { items } = response?.data || [];
       setData(items);
       setTotal(response?.data?.meta?.count || 0);
@@ -48,7 +51,9 @@ const MoneyTransfersTable = () => {
     {
       Header: "Xodim ID",
       accessor: "employee_id",
-      Cell: ({ row }) => <span className="ml-2">{row.original.employee_id}</span>,
+      Cell: ({ row }) => (
+        <span className="ml-2">{row.original.employee_id}</span>
+      ),
     },
     {
       Header: "Hisoblangan sana",
@@ -68,9 +73,9 @@ const MoneyTransfersTable = () => {
     },
     {
       Header: "Filialdagi o'tkazmalar soni",
-      accessor: "branch_trasfers_count",
+      accessor: "branch_transfers_count",
       Cell: ({ row }) => (
-        <span className="ml-2">{row.original.branch_trasfers_count}</span>
+        <span className="ml-2">{row.original.branch_transfers_count}</span>
       ),
     },
     {
@@ -107,6 +112,11 @@ const MoneyTransfersTable = () => {
           />
         </span>
       ),
+    },
+    {
+      Header: "Xodim ID",
+      accessor: "emp_id", // <-- fixed
+      Cell: ({ row }) => <span className="ml-2">{row.original.emp_id}</span>,
     },
     {
       Header: "Status",

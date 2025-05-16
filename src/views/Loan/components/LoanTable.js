@@ -45,13 +45,14 @@ const LoanTable = () => {
       accessor: "id",
       Cell: ({ row }) => <span className="ml-2">{row.original.id}</span>,
     },
-    {
-      Header: "Xodim ID",
-      accessor: "employee_id",
-      Cell: ({ row }) => (
-        <span className="ml-2">{row.original.employee_id}</span>
-      ),
-    },
+   {
+  Header: "Xodim ID",
+  accessor: "emp_id", // employee_id -> emp_id
+  Cell: ({ row }) => (
+    <span className="ml-2">{row.original.emp_id}</span>
+  ),
+},
+
     {
       Header: "Hisoblangan sana",
       accessor: "bonus_calculated_date",
@@ -80,6 +81,21 @@ const LoanTable = () => {
         </span>
       ),
     },
+    {
+  Header: "Margin",
+  accessor: "margin_summ",
+  Cell: ({ row }) => (
+    <span className="ml-2">
+      <NumberFormat
+        value={row.original.margin_summ}
+        displayType="text"
+        thousandSeparator
+        suffix=" UZS"
+      />
+    </span>
+  ),
+},
+
     {
       Header: "Qolgan balans",
       accessor: "remaining_balance",

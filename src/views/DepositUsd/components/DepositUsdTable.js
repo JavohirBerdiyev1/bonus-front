@@ -38,93 +38,83 @@ const DepositUsdTable = () => {
     fetchDeposits();
   }, [pageIndex, pageSize, sort, query, selectedMonth]);
 
-  const columns = [
-    {
-      Header: "ID",
-      accessor: "id",
-      Cell: ({ row }) => <span className="ml-2">{row.original.id}</span>,
-    },
-    {
-      Header: "Xodim ID",
-      accessor: "employee_id",
-      Cell: ({ row }) => <span className="ml-2">{row.original.employee_id}</span>,
-    },
-    {
-      Header: "Hisoblangan sana",
-      accessor: "bonus_calculated_date",
-      Cell: ({ row }) => (
-        <span className="ml-2">
-          {dayjs(row.original.bonus_calculated_date).format("YYYY-MM-DD")}
-        </span>
-      ),
-    },
-    {
-      Header: "Depozit ID",
-      accessor: "deposit_id",
-      Cell: ({ row }) => <span className="ml-2">{row.original.deposit_id}</span>,
-    },
-    {
-      Header: "USD miqdori",
-      accessor: "usd_amount",
-      Cell: ({ row }) => (
-        <span className="ml-2">
-          <NumberFormat
-            value={row.original.usd_amount}
-            displayType="text"
-            thousandSeparator
-            suffix=" USD"
-          />
-        </span>
-      ),
-    },
-    {
-      Header: "Depozit turi",
-      accessor: "deposit_type",
-      Cell: ({ row }) => <span className="ml-2">{row.original.deposit_type}</span>,
-    },
-    {
-      Header: "USD kursi",
-      accessor: "usd_exchange_rate",
-      Cell: ({ row }) => (
-        <span className="ml-2">
-          <NumberFormat
-            value={row.original.usd_exchange_rate}
-            displayType="text"
-            thousandSeparator
-            suffix=" UZS"
-          />
-        </span>
-      ),
-    },
-    {
-      Header: "Bonus komissiya",
-      accessor: "bonus_commission",
-      Cell: ({ row }) => (
-        <span className="ml-2">
-          <NumberFormat
-            value={row.original.bonus_commission}
-            displayType="text"
-            thousandSeparator
-            suffix=" UZS"
-          />
-        </span>
-      ),
-    },
-    {
-      Header: "Status",
-      accessor: "status",
-      Cell: ({ row }) => <span className="ml-2 capitalize">{row.original.status}</span>,
-    },
-    {
-      Header: "Yaratilgan",
-      accessor: "created_at",
-      Cell: ({ row }) => (
-        <span className="ml-2">
-          {dayjs(row.original.created_at).format("YYYY-MM-DD HH:mm")}
-        </span>
-      ),
-    },
-  ];
+ const columns = [
+  {
+    Header: "ID",
+    accessor: "id",
+    Cell: ({ row }) => <span className="ml-2">{row.original.id}</span>,
+  },
+  {
+    Header: "Xodim ID",
+    accessor: "emp_id", // to‘g‘rilandi
+    Cell: ({ row }) => <span className="ml-2">{row.original.emp_id}</span>,
+  },
+  {
+    Header: "Hisoblangan sana",
+    accessor: "bonus_calculated_date",
+    Cell: ({ row }) => (
+      <span className="ml-2">
+        {dayjs(row.original.bonus_calculated_date).format("YYYY-MM-DD")}
+      </span>
+    ),
+  },
+  {
+    Header: "USD miqdori",
+    accessor: "usd_deposit_amount", // to‘g‘rilandi
+    Cell: ({ row }) => (
+      <span className="ml-2">
+        <NumberFormat
+          value={row.original.usd_deposit_amount}
+          displayType="text"
+          thousandSeparator
+          suffix=" USD"
+        />
+      </span>
+    ),
+  },
+  {
+    Header: "USD kursi",
+    accessor: "usd_exchange_rate",
+    Cell: ({ row }) => (
+      <span className="ml-2">
+        <NumberFormat
+          value={row.original.usd_exchange_rate}
+          displayType="text"
+          thousandSeparator
+          suffix=" UZS"
+        />
+      </span>
+    ),
+  },
+  {
+    Header: "Bonus komissiya",
+    accessor: "bonus_commission",
+    Cell: ({ row }) => (
+      <span className="ml-2">
+        <NumberFormat
+          value={row.original.bonus_commission}
+          displayType="text"
+          thousandSeparator
+          suffix=" UZS"
+        />
+      </span>
+    ),
+  },
+  {
+    Header: "Status",
+    accessor: "status",
+    Cell: ({ row }) => <span className="ml-2 capitalize">{row.original.status}</span>,
+  },
+  {
+    Header: "Yaratilgan",
+    accessor: "created_at",
+    Cell: ({ row }) => (
+      <span className="ml-2">
+        {dayjs(row.original.created_at).format("YYYY-MM-DD HH:mm")}
+      </span>
+    ),
+  },
+];
 
   const tableMemoData = useMemo(
     () => ({

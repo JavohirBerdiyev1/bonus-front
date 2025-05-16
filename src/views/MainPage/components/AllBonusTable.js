@@ -73,134 +73,147 @@ const AllBonusTable = () => {
     }
   }, []);
 
-  const columns = [
-    {
-      Header: "Hisoblangan sana",
-      accessor: "bonus_calculated_date",
-      Cell: ({ row }) => (
-        <span className="ml-2">
-          {dayjs(row.original.bonus_calculated_date).format("YYYY-MM-DD")}
-        </span>
-      ),
-    },
-    {
-      Header: "Karta emissiya bonusi",
-      accessor: "card_issuance_bonus",
-      Cell: ({ row }) => (
-        <span className="ml-2">
-          {row.original.card_issuance_bonus !== null ? (
-            <NumberFormat
-              value={row.original.card_issuance_bonus}
-              displayType="text"
-              thousandSeparator
-              suffix=" UZS"
-            />
-          ) : (
-            "-"
-          )}
-        </span>
-      ),
-    },
-    {
-      Header: () => (
-        <span
-          onClick={() => navigate("/deposit_usd_service")}
-          className="cursor-pointer text-blue-600 hover:underline"
-        >
-          Depozit USD bonusi
-        </span>
-      ),
-      accessor: "deposit_usd_bonus",
-      Cell: ({ row }) => (
-        <span className="ml-2">
-          {row.original.deposit_usd_bonus !== null ? (
-            <NumberFormat
-              value={row.original.deposit_usd_bonus}
-              displayType="text"
-              thousandSeparator
-              suffix=" UZS"
-            />
-          ) : (
-            "-"
-          )}
-        </span>
-      ),
-    },
-    {
-      Header: () => (
-        <span
-          onClick={() => navigate("/deposit")}
-          className="cursor-pointer text-blue-600 hover:underline"
-        >
-          Depozit UZS bonusi
-        </span>
-      ),
-      accessor: "deposit_uzs_bonus",
-      Cell: ({ row }) => (
-        <span className="ml-2">
+ const columns = [
+  {
+    Header: "Hisoblangan sana",
+    accessor: "bonus_calculated_date",
+    Cell: ({ row }) => (
+      <span className="ml-2">
+        {dayjs(row.original.bonus_calculated_date).format("YYYY-MM-DD")}
+      </span>
+    ),
+  },
+  {
+    Header: "Karta emissiya bonusi",
+    accessor: "card_issuance_bonus",
+    Cell: ({ row }) => (
+      <span className="ml-2">
+        {row.original.card_issuance_bonus !== null ? (
+          <NumberFormat
+            value={row.original.card_issuance_bonus}
+            displayType="text"
+            thousandSeparator
+            suffix=" UZS"
+          />
+        ) : (
+          "-"
+        )}
+      </span>
+    ),
+  },
+  {
+    Header: () => (
+      <span
+        onClick={() => navigate("/deposit_usd_service")}
+        className="cursor-pointer text-blue-600 hover:underline"
+      >
+        Depozit USD bonusi
+      </span>
+    ),
+    accessor: "deposit_usd_bonus",
+    Cell: ({ row }) => (
+      <span className="ml-2">
+        {row.original.deposit_usd_bonus !== null ? (
+          <NumberFormat
+            value={row.original.deposit_usd_bonus}
+            displayType="text"
+            thousandSeparator
+            suffix=" UZS"
+          />
+        ) : (
+          "-"
+        )}
+      </span>
+    ),
+  },
+  {
+    Header: () => (
+      <span
+        onClick={() => navigate("/deposit")}
+        className="cursor-pointer text-blue-600 hover:underline"
+      >
+        Depozit UZS bonusi
+      </span>
+    ),
+    accessor: "deposit_uzs_bonus",
+    Cell: ({ row }) => (
+      <span className="ml-2">
+        {row.original.deposit_uzs_bonus !== null ? (
           <NumberFormat
             value={row.original.deposit_uzs_bonus}
             displayType="text"
             thousandSeparator
             suffix=" UZS"
           />
-        </span>
-      ),
-    },
-    {
-      Header: () => (
-        <span
-          onClick={() => navigate("/loan")}
-          className="cursor-pointer text-blue-600 hover:underline"
-        >
-          Kredit UZS bonusi
-        </span>
-      ),
-      accessor: "loan_uzs_bonus",
-      Cell: ({ row }) => (
-        <span className="ml-2">
+        ) : (
+          "-"
+        )}
+      </span>
+    ),
+  },
+  {
+    Header: () => (
+      <span
+        onClick={() => navigate("/loan")}
+        className="cursor-pointer text-blue-600 hover:underline"
+      >
+        Kredit UZS bonusi
+      </span>
+    ),
+    accessor: "loan_uzs_bonus",
+    Cell: ({ row }) => (
+      <span className="ml-2">
+        {row.original.loan_uzs_bonus !== null ? (
           <NumberFormat
             value={row.original.loan_uzs_bonus}
             displayType="text"
             thousandSeparator
             suffix=" UZS"
           />
-        </span>
-      ),
-    },
-    {
-      Header: "Pul o'tkazma bonusi",
-      accessor: "money_transfer_bonus",
-      Cell: ({ row }) => (
-        <span className="ml-2">
-          {row.original.money_transfer_bonus !== null ? (
-            <NumberFormat
-              value={row.original.money_transfer_bonus}
-              displayType="text"
-              thousandSeparator
-              suffix=" UZS"
-            />
-          ) : (
-            "-"
-          )}
-        </span>
-      ),
-    },
-    {
-      Header: "To‘lovlar bonusi",
-      accessor: "payments_bonus",
-      Cell: ({ row }) => (
-        <span className="ml-2">
+        ) : (
+          "-"
+        )}
+      </span>
+    ),
+  },
+  {
+    Header: "Pul o'tkazma bonusi",
+    accessor: "money_transfer_bonus",
+    Cell: ({ row }) => (
+      <span className="ml-2">
+        {row.original.money_transfer_bonus !== null ? (
+          <NumberFormat
+            value={row.original.money_transfer_bonus}
+            displayType="text"
+            thousandSeparator
+            suffix=" UZS"
+          />
+        ) : (
+          "-"
+        )}
+      </span>
+    ),
+  },
+  {
+    Header: "To‘lovlar bonusi",
+    accessor: "payments_bonus",
+    Cell: ({ row }) => (
+      <span className="ml-2">
+        {row.original.payments_bonus !== null ? (
           <NumberFormat
             value={row.original.payments_bonus}
             displayType="text"
             thousandSeparator
             suffix=" UZS"
           />
-        </span>
-      ),
-    },
-  ];
+        ) : (
+          "-"
+        )}
+      </span>
+    ),
+  },
+];
+
 
   const tableMemoData = useMemo(
     () => ({ pageIndex, pageSize, sort, query, total }),

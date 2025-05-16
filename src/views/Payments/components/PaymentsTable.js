@@ -59,81 +59,82 @@ const MainPageTable = () => {
   }, [pageIndex, pageSize, sort, query, selectedMonth]);
 
   const columns = [
-    {
-      Header: "ID",
-      accessor: "id",
-      Cell: ({ row }) => <span className="ml-2">{row.original.id}</span>,
-    },
-    {
-      Header: "Xodim ID",
-      accessor: "employee_id",
-      Cell: ({ row }) => (
-        <span className="ml-2">{row.original.employee_id}</span>
-      ),
-    },
-    {
-      Header: "Hisoblangan sana",
-      accessor: "bonus_calculated_date",
-      Cell: ({ row }) => (
-        <span className="ml-2">
-          {dayjs(row.original.bonus_calculated_date).format("YYYY-MM-DD")}
-        </span>
-      ),
-    },
-    {
-      Header: "Kredit - UZS",
-      accessor: "revenue",
-      Cell: ({ row }) => <span className="ml-2">{row.original.revenue}</span>,
-    },
-    {
-      Header: "Avtomatik daromad",
-      accessor: "automated_revenue",
-      Cell: ({ row }) => (
-        <span className="ml-2">{row.original.automated_revenue}</span>
-      ),
-    },
-    {
-      Header: "Karta o'tkazma",
-      accessor: "automated_card_transfer_revenue",
-      Cell: ({ row }) => (
-        <span className="ml-2">
-          {row.original.automated_card_transfer_revenue}
-        </span>
-      ),
-    },
-    {
-      Header: "UzPay o'tkazma",
-      accessor: "uzpay_bonus_transfer_revenue",
-      Cell: ({ row }) => (
-        <span className="ml-2">
-          {row.original.uzpay_bonus_transfer_revenue}
-        </span>
-      ),
-    },
-    {
-      Header: "Bonus komissiya",
-      accessor: "bonus_commission",
-      Cell: ({ row }) => (
-        <span className="ml-2">{row.original.bonus_commission}</span>
-      ),
-    },
-    {
-      Header: "Status",
-      accessor: "status",
-      Cell: ({ row }) => (
-        <span className="ml-2 capitalize">{row.original.status}</span>
-      ),
-    },
-    {
-      Header: "Yaratilgan vaqti",
-      accessor: "created_at",
-      Cell: ({ row }) => (
-        <span className="ml-2">
-          {dayjs(row.original.created_at).format("YYYY-MM-DD HH:mm")}
-        </span>
-      ),
-    },
-  ];
+  {
+    Header: "ID",
+    accessor: "id",
+    Cell: ({ row }) => <span className="ml-2">{row.original.id}</span>,
+  },
+  {
+    Header: "Xodim ID",
+    accessor: "emp_id",
+    Cell: ({ row }) => <span className="ml-2">{row.original.emp_id}</span>,
+  },
+  {
+    Header: "Xodim kodi",
+    accessor: "emp_code",
+    Cell: ({ row }) => <span className="ml-2">{row.original.emp_code}</span>,
+  },
+  {
+    Header: "Filial kodi",
+    accessor: "filial_code",
+    Cell: ({ row }) => <span className="ml-2">{row.original.filial_code}</span>,
+  },
+  {
+    Header: "Hisoblangan sana",
+    accessor: "bonus_calculated_date",
+    Cell: ({ row }) => (
+      <span className="ml-2">
+        {dayjs(row.original.bonus_calculated_date).format("YYYY-MM-DD")}
+      </span>
+    ),
+  },
+  {
+    Header: "To'lovlar soni",
+    accessor: "payments_count",
+    Cell: ({ row }) => <span className="ml-2">{row.original.payments_count}</span>,
+  },
+  {
+    Header: "Kredit - UZS",
+    accessor: "revenue",
+    Cell: ({ row }) => <span className="ml-2">{Number(row.original.revenue).toLocaleString()} UZS</span>,
+  },
+  {
+    Header: "Avtomatik daromad",
+    accessor: "automated_revenue",
+    Cell: ({ row }) => <span className="ml-2">{row.original.automated_revenue}</span>,
+  },
+  {
+    Header: "Karta o'tkazma",
+    accessor: "automated_card_transfer_revenue",
+    Cell: ({ row }) => <span className="ml-2">{row.original.automated_card_transfer_revenue}</span>,
+  },
+  {
+    Header: "UzPay o'tkazma",
+    accessor: "uzpay_bonus_transfer_revenue",
+    Cell: ({ row }) => <span className="ml-2">{row.original.uzpay_bonus_transfer_revenue}</span>,
+  },
+  {
+    Header: "Bonus komissiya",
+    accessor: "bonus_commission",
+    Cell: ({ row }) => <span className="ml-2">{row.original.bonus_commission}</span>,
+  },
+  {
+    Header: "Status",
+    accessor: "status",
+    Cell: ({ row }) => (
+      <span className="ml-2 capitalize">{row.original.status}</span>
+    ),
+  },
+  {
+    Header: "Yaratilgan vaqti",
+    accessor: "created_at",
+    Cell: ({ row }) => (
+      <span className="ml-2">
+        {dayjs(row.original.created_at).format("YYYY-MM-DD HH:mm")}
+      </span>
+    ),
+  },
+];
 
   const tableMemoData = useMemo(
     () => ({
