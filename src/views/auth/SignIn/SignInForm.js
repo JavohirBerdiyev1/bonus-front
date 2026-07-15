@@ -21,7 +21,7 @@ const SignInForm = () => {
 	const navigate = useNavigate()
   // Form yuborilganda:
   const handleSubmit = async (values, { setSubmitting }) => {
-    const baseURL = import.meta.env;
+    const baseURL = process.env.REACT_APP_ADMIN_API_BASE_URL;
       console.log(baseURL);
       
     setErrorMessage('') // Xatolikni avval tozalaymiz
@@ -30,7 +30,7 @@ const SignInForm = () => {
 			setSubmitting(true)
 			const hashedPassword = sha1(values.password).toString();
       const response = await fetch(
-        `http://localhost:3000/api/v1/auth/login`,
+        `${process.env.REACT_APP_ADMIN_API_BASE_URL}/api/v1/auth/login`,
         {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
